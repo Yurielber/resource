@@ -4,3 +4,4 @@
 [com.github.ibole.microservice.remoting.curator.lock.DistributedLockServiceCuratorImpl](https://www.programcreek.com/java-api-examples/?code=benson-git/ibole-microservice/ibole-microservice-master/microservice-remoting/src/main/java/com/github/ibole/microservice/remoting/curator/lock/DistributedLockServiceCuratorImpl.java)    
 [Distributed Systems Get Simpler with Apache Helix](http://blog.cloudera.com/blog/2013/09/distributed-systems-get-simpler-with-apache-helix/)    
 [Test of ZK Curator InterProcessMutex](https://gist.github.com/quux00/f6be8fe223a7832ef514)    
+[a series of blogs introducing Apache ZooKeeper](http://www.sleberknight.com/blog/sleberkn/tags/zookeeper)    
