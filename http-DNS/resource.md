@@ -3,3 +3,6 @@
 
 # Slide
 [How to send DNS over anything encrypted](https://www.slideshare.net/MenandMice/how-to-send-dns-over-anything-encrypted)
+
+# Document
+[Google Public DNS - DNS-over-HTTPS](https://developers.google.com/speed/public-dns/docs/dns-over-https)
