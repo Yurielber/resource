@@ -1,3 +1,5 @@
 [Apache Kafka Mailing Lists](https://mail-archives.apache.org/mod_mbox/kafka-users/)    
 [Apache Kafka Official Documentation](https://kafka.apache.org/documentation/)    
-[Kafka data structures in Zookeeper](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+data+structures+in+Zookeeper)
+[Kafka data structures in Zookeeper](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+data+structures+in+Zookeeper)    
+[0.8.0 SimpleConsumer Example](https://cwiki.apache.org/confluence/display/KAFKA/0.8.0+SimpleConsumer+Example)    
+[Kafka Pages](https://cwiki.apache.org/confluence/collector/pages.action?key=KAFKA)
