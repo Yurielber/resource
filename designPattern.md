@@ -1,0 +1,1 @@
+[Facade Pattern](https://dzone.com/articles/design-patterns-uncovered-1)
