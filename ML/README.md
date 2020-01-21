@@ -16,3 +16,6 @@
 1. [Python Data Science Handbook--Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)  
 1. [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)  
 1. [Jupyter Tutorial](https://www.tutorialspoint.com/jupyter/index.htm)  
+
+## unclassified  
+1. [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html) 
