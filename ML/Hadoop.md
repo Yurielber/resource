@@ -1,4 +1,0 @@
-## Blogs  
-1. [Hadoop Delegation Tokens Explained](https://blog.cloudera.com/hadoop-delegation-tokens-explained/)  
-1. [Hadoop Kerberos的那些坑 --顾亮亮 --2015.11.03](https://marsishandsome.github.io/slides/gen/HadoopSecurity.html)  
-1. [Hadoop and Kerberos: The Madness beyond the Gate](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/)  
