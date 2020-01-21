@@ -1,4 +1,6 @@
+## Preface  
 1. [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)  
+2. [Getting Started With MachineLearning - Jim Liang - 梁劲](https://pan.baidu.com/s/1tNXYQNadAsDGfPvuuj7_Tw)
 
 ## Hadoop    
 1. [Hadoop Delegation Tokens Explained](https://blog.cloudera.com/hadoop-delegation-tokens-explained/)  
