@@ -18,4 +18,5 @@
 1. [Jupyter Tutorial](https://www.tutorialspoint.com/jupyter/index.htm)  
 
 ## unclassified  
-1. [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html) 
+1. [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html)   
+2. [分布式Tensorflow原理初探](https://zhuanlan.zhihu.com/p/39731797)  
