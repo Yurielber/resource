@@ -8,6 +8,7 @@
 1. [Hadoop and Kerberos: The Madness beyond the Gate](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/)  
 1. [Debugging Apache Hadoop YARN Cluster in Production](https://www.slideshare.net/HadoopSummit/debugging-apache-hadoop-yarn-cluster-in-production-63887902)  
 1. [Apache Hadoop 机器学习引擎 Submarine 及生态-刘勋](http://dl.zhangluya.com/Qcon/qconbj2019/Apache%20Hadoop%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BC%95%E6%93%8E%20Submarine%20%E5%8F%8A%E7%94%9F%E6%80%81-%E5%88%98%E5%8B%8B.pdf)  
+1. [TESTING BIGDATA PROJECTS](https://layer4.fr/blog/2017/02/23/testing-bigdata-hadoop/)
 
 ## Kubeflow  
 1. [Introduction to Kubeflow - 11th October 2018 World AI Summit 2018](https://cdn2.hubspot.net/hubfs/4149027/WSAI/DAY%202%20-%20STREAMS/16:05%20-%2016:20%20-%20Marc-Etienne%20Ouimette,%20Director%20of%20Public%20Policy,%20Element%20AI%20-%20Overview%20of%20the%20AI%20landscape%20in%20Canada%20from%20Element%20AI,%20pioneers%20of%20an%20AI-First%20world%20by%20turning%20cutting-edge%20AI%20research%20into%20transformative%20business%20applications.pdf)  
