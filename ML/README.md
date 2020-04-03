@@ -23,3 +23,4 @@
 1. [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html)   
 1. [分布式Tensorflow原理初探](https://zhuanlan.zhihu.com/p/39731797)  
 1. [TensorFlow Core for beginners](https://www.tensorflow.org/tutorials)  
+1. [【知乎】分布式TensorFlow入门教程](https://zhuanlan.zhihu.com/p/35083779)  
