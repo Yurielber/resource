@@ -27,4 +27,5 @@
 1. [分布式Tensorflow原理初探](https://zhuanlan.zhihu.com/p/39731797)  
 1. [TensorFlow Core for beginners](https://www.tensorflow.org/tutorials)  
 1. [【知乎】分布式TensorFlow入门教程](https://zhuanlan.zhihu.com/p/35083779)  
-1. [Qubole Data Service](https://docs.qubole.com/en/latest/index.html)
+1. [Qubole Data Service](https://docs.qubole.com/en/latest/index.html)  
+1. [基于DNS数据分析的恶意域名检测](https://blog.csdn.net/qq_38262728/article/details/83211181)
