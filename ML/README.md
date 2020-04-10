@@ -32,3 +32,4 @@
 
 ## notebook  
 1. [Explore Notebooks](https://www.zepl.com/explore)  
+1. [Apache Zeppelin on Kubernetes with Spark and Kafka](https://www.slideshare.net/apachezeppelin/apache-zeppelin-on-kubernetes-with-spark-and-kafka-meetup-twitter)  
