@@ -6,6 +6,7 @@
 1. [Hadoop Delegation Tokens Explained](https://blog.cloudera.com/hadoop-delegation-tokens-explained/)  
 1. [Hadoop and Kerberos: The Madness beyond the Gate](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/)  
 1. [How Spark Uses Kerberos Authentication](https://andriymz.github.io/spark/how-spark-uses-kerberos-authentication/)  
+1. [Delegation Token Handling In Spark](https://github.com/apache/spark/blob/master/core/src/main/scala/org/apache/spark/deploy/security/README.md)  
 1. [Introducing Hadoop Tokens](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/sections/hadoop_tokens.html)  
 1. [Hadoop Kerberos的那些坑 --顾亮亮 --2015.11.03](https://marsishandsome.github.io/slides/gen/HadoopSecurity.html)  
 1. [Debugging Apache Hadoop YARN Cluster in Production](https://www.slideshare.net/HadoopSummit/debugging-apache-hadoop-yarn-cluster-in-production-63887902)  
