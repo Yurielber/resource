@@ -17,6 +17,7 @@
 1. [YARN Application Security](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YarnApplicationSecurity.html)  
 1. [Understanding how Spark runs on YARN with HDFS](https://blog.knoldus.com/understanding-how-spark-runs-on-yarn-with-hdfs/)  
 1. [How to collect Hadoop metrics](https://www.datadoghq.com/blog/collecting-hadoop-metrics/)  
+1. [Spark and Kerberos: a safe story](https://andriymz.github.io/spark/how-spark-uses-kerberos-authentication/)  
 
 ## Spark Metrics System  
 1. [Monitoring and Instrumentation](https://spark.apache.org/docs/2.1.0/monitoring.html)  
