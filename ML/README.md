@@ -14,6 +14,7 @@
 1. [Apache Hadoop 机器学习引擎 Submarine 及生态-刘勋](http://dl.zhangluya.com/Qcon/qconbj2019/Apache%20Hadoop%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BC%95%E6%93%8E%20Submarine%20%E5%8F%8A%E7%94%9F%E6%80%81-%E5%88%98%E5%8B%8B.pdf)  
 1. [TESTING BIGDATA PROJECTS](https://layer4.fr/blog/2017/02/23/testing-bigdata-hadoop/)  
 1. [Amazon S3 Best Practice and Tuning for Hadoop/Spark in the Cloud](https://www.slideshare.net/ssuserca76a5/amazon-s3-best-practice-and-tuning-for-hadoopspark-in-the-cloud)  
+1. [YARN Application Security](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YarnApplicationSecurity.html)  
 
 
 ## Kubeflow  
