@@ -8,6 +8,7 @@
 1. [How Spark Uses Kerberos Authentication](https://andriymz.github.io/spark/how-spark-uses-kerberos-authentication/)  
 1. [Delegation Token Handling In Spark](https://github.com/apache/spark/blob/master/core/src/main/scala/org/apache/spark/deploy/security/README.md)  
 1. [Introducing Hadoop Tokens](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/sections/hadoop_tokens.html)  
+1. [Submitting Spark batch applications](https://www.ibm.com/support/knowledgecenter/SSZU2E_2.2.1/managing_applications/applications_submit.html)
 1. [Hadoop Kerberos的那些坑 --顾亮亮 --2015.11.03](https://marsishandsome.github.io/slides/gen/HadoopSecurity.html)  
 1. [Debugging Apache Hadoop YARN Cluster in Production](https://www.slideshare.net/HadoopSummit/debugging-apache-hadoop-yarn-cluster-in-production-63887902)  
 1. [Apache Hadoop 机器学习引擎 Submarine 及生态-刘勋](http://dl.zhangluya.com/Qcon/qconbj2019/Apache%20Hadoop%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BC%95%E6%93%8E%20Submarine%20%E5%8F%8A%E7%94%9F%E6%80%81-%E5%88%98%E5%8B%8B.pdf)  
