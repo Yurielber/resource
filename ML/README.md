@@ -16,6 +16,7 @@
 1. [Amazon S3 Best Practice and Tuning for Hadoop/Spark in the Cloud](https://www.slideshare.net/ssuserca76a5/amazon-s3-best-practice-and-tuning-for-hadoopspark-in-the-cloud)  
 1. [YARN Application Security](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YarnApplicationSecurity.html)  
 1. [Understanding how Spark runs on YARN with HDFS](https://blog.knoldus.com/understanding-how-spark-runs-on-yarn-with-hdfs/)  
+1. [How to collect Hadoop metrics](https://www.datadoghq.com/blog/collecting-hadoop-metrics/)  
 
 ## Kubeflow  
 1. [Introduction to Kubeflow - 11th October 2018 World AI Summit 2018](https://cdn2.hubspot.net/hubfs/4149027/WSAI/DAY%202%20-%20STREAMS/16:05%20-%2016:20%20-%20Marc-Etienne%20Ouimette,%20Director%20of%20Public%20Policy,%20Element%20AI%20-%20Overview%20of%20the%20AI%20landscape%20in%20Canada%20from%20Element%20AI,%20pioneers%20of%20an%20AI-First%20world%20by%20turning%20cutting-edge%20AI%20research%20into%20transformative%20business%20applications.pdf)  
