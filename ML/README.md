@@ -18,6 +18,7 @@
 1. [Understanding how Spark runs on YARN with HDFS](https://blog.knoldus.com/understanding-how-spark-runs-on-yarn-with-hdfs/)  
 1. [How to collect Hadoop metrics](https://www.datadoghq.com/blog/collecting-hadoop-metrics/)  
 1. [Spark and Kerberos: a safe story](https://www.stratio.com/blog/spark-kerberos-safe-story/)  
+1. [Apache Zeppelin + Livy: Bringing Multi Tenancy to Interactive Data Analysis](https://www.slideshare.net/HadoopSummit/apache-zeppelin-livy-bringing-multi-tenancy-to-interactive-data-analysis)  
 
 ## Spark Metrics System  
 1. [Monitoring and Instrumentation](https://spark.apache.org/docs/2.1.0/monitoring.html)  
