@@ -36,6 +36,7 @@
 1. [A Kafka metric sink for Apache Spark](https://github.com/erikerlandson/spark-kafka-sink)  
 1. [Spark推送数据到open-falcon](https://github.com/shangwen/SparkOpenFalconSink)  
 1. [A spark metrics sink that pushes to InfluxDb](https://github.com/palantir/spark-influx-sink)  
+1. [Py4J Issue: Evidence • Memory spiked during loading of trained ML models into python process. • Only on driver! Memory spikes Python Process Memory](https://www.slideshare.net/SparkSummit/monitoring-the-dynamic-resource-usage-of-scala-and-python-spark-jobs-in-yarn-spark-summit-east-talk-by-ed-barnes-and-ruslan-vaulin)  
 
 ## Kubeflow  
 1. [Introduction to Kubeflow - 11th October 2018 World AI Summit 2018](https://cdn2.hubspot.net/hubfs/4149027/WSAI/DAY%202%20-%20STREAMS/16:05%20-%2016:20%20-%20Marc-Etienne%20Ouimette,%20Director%20of%20Public%20Policy,%20Element%20AI%20-%20Overview%20of%20the%20AI%20landscape%20in%20Canada%20from%20Element%20AI,%20pioneers%20of%20an%20AI-First%20world%20by%20turning%20cutting-edge%20AI%20research%20into%20transformative%20business%20applications.pdf)  
