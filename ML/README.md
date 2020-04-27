@@ -20,6 +20,7 @@
 1. [Spark and Kerberos: a safe story](https://www.stratio.com/blog/spark-kerberos-safe-story/)  
 1. [Apache Zeppelin + Livy: Bringing Multi Tenancy to Interactive Data Analysis](https://www.slideshare.net/HadoopSummit/apache-zeppelin-livy-bringing-multi-tenancy-to-interactive-data-analysis)  
 1. [Connecting Livy to a Secured Kerberized HDP Cluster](https://henning.kropponline.de/2016/11/06/connecting-livy-to-a-secured-kerberized-hdp-cluster/)  
+1.[Hive tuning](https://www.slideshare.net/ye.mikez/hive-tuning)  
 
 ## Spark Metrics System  
 1. [Monitoring and Instrumentation](https://spark.apache.org/docs/2.1.0/monitoring.html)  
