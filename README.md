@@ -6,3 +6,6 @@ This is project contain all URL collections
 ## Deep Learning  
 1. [深度学习Workshop总结](http://brightliao.me/2016/12/16/dl-workshop-summary/)  
 1. [ai-workshop-notes](https://github.com/gmlove/ai-workshop-notes)  
+
+## Testing  
+1. [ThoughtWorks Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)  
