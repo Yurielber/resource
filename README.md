@@ -10,3 +10,6 @@ This is project contain all URL collections
 ## ThoughtWorks By Martin Fowler  
 1. [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)  
 1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)  
+
+## Ansible  
+1. [How to install Ansible on Windows?](https://geekflare.com/ansible-installation-windows/)  
