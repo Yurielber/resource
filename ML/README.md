@@ -30,7 +30,6 @@
 1. [spark 监控--WebUi、Metrics System](https://www.jianshu.com/p/f67556228ff5)  
 1. [Build an Online Performance Dashboard for Apache Spark](https://github.com/LucaCanali/Miscellaneous/tree/master/Spark_Dashboard)  
 1. [Performance Troubleshooting Using Apache Spark Metrics](https://www.slideshare.net/databricks/performance-troubleshooting-using-apache-spark-metrics)  
-1. [* SparkMonitor — Big Data Tools for Physics Analysis](https://medium.com/@krishnanr/sparkmonitor-big-data-tools-for-physics-analysis-bbcdef68b35a)  
 1. [Spark Metrics (CSV format)](https://zqhxuyuan.github.io/2017/05/01/Spark-Metrics/)  
 1. [Notes: Spark metrics](https://www.raychase.net/3681)  
 1. [Apache Spark metrics samples](https://github.com/elmiko/spark-metrics-samples)  
@@ -39,6 +38,12 @@
 1. [A spark metrics sink that pushes to InfluxDb](https://github.com/palantir/spark-influx-sink)  
 1. [Py4J Issue: Evidence • Memory spiked during loading of trained ML models into python process. • Only on driver! Memory spikes Python Process Memory](https://www.slideshare.net/SparkSummit/monitoring-the-dynamic-resource-usage-of-scala-and-python-spark-jobs-in-yarn-spark-summit-east-talk-by-ed-barnes-and-ruslan-vaulin)  
 1. [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)  
+
+## Spark Monitor (Krishnan R)  
+1. [SparkMonitor — Big Data Tools for Physics Analysis](https://medium.com/@krishnanr/sparkmonitor-big-data-tools-for-physics-analysis-bbcdef68b35a)  
+1. [Spark Monitor - An extension for Jupyter Notebook](https://github.com/prasanthkothuri/sparkTraining)  
+1. [SparkMonitor - How the extension works](https://krishnan-r.github.io/sparkmonitor/how.html)  
+1. [Spark Monitor - An extension for Jupyter Lab](https://github.com/itsjafer/jupyterlab-sparkmonitor)  
 
 ## Kubeflow  
 1. [Introduction to Kubeflow - 11th October 2018 World AI Summit 2018](https://cdn2.hubspot.net/hubfs/4149027/WSAI/DAY%202%20-%20STREAMS/16:05%20-%2016:20%20-%20Marc-Etienne%20Ouimette,%20Director%20of%20Public%20Policy,%20Element%20AI%20-%20Overview%20of%20the%20AI%20landscape%20in%20Canada%20from%20Element%20AI,%20pioneers%20of%20an%20AI-First%20world%20by%20turning%20cutting-edge%20AI%20research%20into%20transformative%20business%20applications.pdf)  
