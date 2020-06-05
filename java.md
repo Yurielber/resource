@@ -15,3 +15,6 @@
 ## JMX ##
 [Jolokia is an HTTP/JSON bridge for remote JMX access](https://jolokia.org/features-nb.html)    
 [Java Platform, Standard Edition Monitoring and Management Guide](https://docs.oracle.com/javase/9/management/toc.htm)
+
+## Hibernate ##
+[Hibernate SQLQuery Manual](https://docs.jboss.org/hibernate/orm/4.1/devguide/en-US/html/ch13.html)
