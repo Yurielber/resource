@@ -29,4 +29,13 @@ https://github.com/arturmkrtchyan/hello-netty/blob/master/src/main/java/com/artu
 http://restlet.com/company/blog/page/2/  
 http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-restlet-framework/  
 
+## Apache Curator ##
+[Apache Curator Recipes Documents](https://curator.apache.org/curator-recipes/)  
+[ZK](http://zookeeper.apache.org/doc/r3.1.2/zookeeperProgrammers.html)  
+[Java Code Examples for org.apache.curator.framework.recipes.locks.InterProcessMutex](https://www.programcreek.com/java-api-examples/index.php?api=org.apache.curator.framework.recipes.locks.InterProcessMutex)  
+[com.github.ibole.microservice.remoting.curator.lock.DistributedLockServiceCuratorImpl](https://www.programcreek.com/java-api-examples/?code=benson-git/ibole-microservice/ibole-microservice-master/microservice-remoting/src/main/java/com/github/ibole/microservice/remoting/curator/lock/DistributedLockServiceCuratorImpl.java)  
+[Distributed Systems Get Simpler with Apache Helix](http://blog.cloudera.com/blog/2013/09/distributed-systems-get-simpler-with-apache-helix/)  
+[Test of ZK Curator InterProcessMutex](https://gist.github.com/quux00/f6be8fe223a7832ef514)  
+[a series of blogs introducing Apache ZooKeeper](http://www.sleberknight.com/blog/sleberkn/tags/zookeeper)  
+
 
