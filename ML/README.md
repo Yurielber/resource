@@ -67,3 +67,9 @@
 ## notebook  
 1. [Explore Notebooks](https://www.zepl.com/explore)  
 1. [Apache Zeppelin on Kubernetes with Spark and Kafka](https://www.slideshare.net/apachezeppelin/apache-zeppelin-on-kubernetes-with-spark-and-kafka-meetup-twitter)  
+
+## AutoML  
+SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVanschoren/automl-lectures-acdl-2019)  
+[AutoML.org](http://www.automl.org/book/) PDF E-book [Automated Machine Learning-Methods,Systems,Challenges](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)  
+
+
