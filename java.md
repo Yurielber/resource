@@ -25,6 +25,11 @@ https://github.com/arturmkrtchyan/hello-netty/blob/master/src/main/java/com/artu
 [Netty Tutorial Part 1.5: On Channel Handlers and Channel Options](http://seeallhearall.blogspot.sg/2012/06/netty-tutorial-part-15-on-channel.html)  
 [Netty Best Practices a.k.a Faster == Better](http://normanmaurer.me/presentations/2014-facebook-eng-netty/slides.html)  
 
+#### Head first Netty ####
+https://caorong.github.io/2016/11/24/netty-in-picture/  
+https://caorong.github.io/2016/12/25/head-first-netty-2/  
+https://caorong.github.io/2017/01/16/head-first-netty-3/  
+
 ## Restlet ##
 http://restlet.com/company/blog/page/2/  
 http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-restlet-framework/  
@@ -37,5 +42,3 @@ http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-
 [Distributed Systems Get Simpler with Apache Helix](http://blog.cloudera.com/blog/2013/09/distributed-systems-get-simpler-with-apache-helix/)  
 [Test of ZK Curator InterProcessMutex](https://gist.github.com/quux00/f6be8fe223a7832ef514)  
 [a series of blogs introducing Apache ZooKeeper](http://www.sleberknight.com/blog/sleberkn/tags/zookeeper)  
-
-
