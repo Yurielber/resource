@@ -11,3 +11,7 @@
 [ProGuard: Real World Example](https://www.alexeyshmalko.com/2014/proguard-real-world-example/)  
 [Android Getting Started with ProGuard](https://www.raywenderlich.com/7449-getting-started-with-proguard)  
 [AndroidProguardGuide](https://github.com/inferjay/AndroidProguardGuide)  
+
+## JMX ##
+[Jolokia is an HTTP/JSON bridge for remote JMX access](https://jolokia.org/features-nb.html)    
+[Java Platform, Standard Edition Monitoring and Management Guide](https://docs.oracle.com/javase/9/management/toc.htm)
