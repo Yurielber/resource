@@ -10,3 +10,6 @@
 [Secure DNS Conversion](http://joeywhelan.blogspot.sg/2017/06/secure-dns-conversion.html)  
 [How to send DNS over anything encrypted](https://www.slideshare.net/MenandMice/how-to-send-dns-over-anything-encrypted)  
 [Google Public DNS - DNS-over-HTTPS](https://developers.google.com/speed/public-dns/docs/dns-over-https)  
+
+# dnsmasq
+[DNSmasq mail list How to set the timeout dnsmasq uses for upstream	queries](http://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2009q3/003296.html)  
