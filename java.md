@@ -42,3 +42,6 @@ http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-
 [Distributed Systems Get Simpler with Apache Helix](http://blog.cloudera.com/blog/2013/09/distributed-systems-get-simpler-with-apache-helix/)  
 [Test of ZK Curator InterProcessMutex](https://gist.github.com/quux00/f6be8fe223a7832ef514)  
 [a series of blogs introducing Apache ZooKeeper](http://www.sleberknight.com/blog/sleberkn/tags/zookeeper)  
+
+## unclassified ##
+[IBM article Dealing with InterruptedException](https://www.ibm.com/developerworks/java/library/j-jtp05236/index.html)  
