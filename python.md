@@ -1,8 +1,11 @@
 [Using % and .format() for great good!](https://pyformat.info/)  
 
-# Python Unit test #
+## Python Unit test ##
 [Workshop: Unit Testing in Python](https://www.slideshare.net/DavidTan26/workshop-unit-testing-in-python)  
 [Testing in Python: doctest and unittest](https://www.slideshare.net/fadirra/testing-in-python-doctest-and-unittest)  
 [Pragmatic Introduction to Python Unit Testing (PyDays 2018)](https://www.slideshare.net/pkofler/pragmatic-introduction-to-python-unit-testing-pydays-2018)  
 [Visual testing with PyCharm and pytest PyCon 2018](https://www.slideshare.net/testandcode/visual-testing-with-pycharm-and-pytest) *PyCharm pytest illustration Project*  
 SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/mocking-in-python-44973320)  
+
+## Resource ##
+[Python 资源大全中文版](https://jobbole.github.io/awesome-python-cn/)  
