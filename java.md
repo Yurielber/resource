@@ -17,4 +17,10 @@
 [Java Platform, Standard Edition Monitoring and Management Guide](https://docs.oracle.com/javase/9/management/toc.htm)
 
 ## Hibernate ##
-[Hibernate SQLQuery Manual](https://docs.jboss.org/hibernate/orm/4.1/devguide/en-US/html/ch13.html)
+[Hibernate SQLQuery Manual](https://docs.jboss.org/hibernate/orm/4.1/devguide/en-US/html/ch13.html)  
+
+## Netty ##
+http://qiankunli.github.io/2016/04/22/Java-Netty5.html
+https://github.com/arturmkrtchyan/hello-netty/blob/master/src/main/java/com/arturmkrtchyan/HelloClient.java
+[Netty Tutorial Part 1.5: On Channel Handlers and Channel Options](http://seeallhearall.blogspot.sg/2012/06/netty-tutorial-part-15-on-channel.html)
+[Netty Best Practices a.k.a Faster == Better](http://normanmaurer.me/presentations/2014-facebook-eng-netty/slides.html)
