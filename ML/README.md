@@ -22,6 +22,14 @@
 1. [Connecting Livy to a Secured Kerberized HDP Cluster](https://henning.kropponline.de/2016/11/06/connecting-livy-to-a-secured-kerberized-hdp-cluster/)  
 1.[Hive tuning](https://www.slideshare.net/ye.mikez/hive-tuning)  
 
+## Kafka ##
+[Apache Kafka Mailing Lists](https://mail-archives.apache.org/mod_mbox/kafka-users/)  
+[Apache Kafka Official Documentation](https://kafka.apache.org/documentation/)  
+[Kafka data structures in Zookeeper](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+data+structures+in+Zookeeper)  
+[0.8.0 SimpleConsumer Example](https://cwiki.apache.org/confluence/display/KAFKA/0.8.0+SimpleConsumer+Example)  
+[Kafka Pages](https://cwiki.apache.org/confluence/collector/pages.action?key=KAFKA)  
+[*kafka-users mailing list*: Kafka behind NAT](http://mail-archives.apache.org/mod_mbox/kafka-users/201608.mbox/browser)  
+
 ## Spark Metrics System  
 1. [Monitoring and Instrumentation](https://spark.apache.org/docs/2.1.0/monitoring.html)  
 1. [Executor-level metrics are sent from each executor to the driver as part of the Heartbeat to describe the performance metrics of Executor itself like JVM heap memory, GC information.](https://github.com/apache/spark/blob/master/docs/monitoring.md#source--jvm-source)  
