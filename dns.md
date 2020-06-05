@@ -5,3 +5,8 @@
 
 # Redundancy Protocol
 [CARP is the Common Address Redundancy Protocol](https://www.openbsd.org/faq/pf/carp.html)
+
+# HTTP DNS
+[Secure DNS Conversion](http://joeywhelan.blogspot.sg/2017/06/secure-dns-conversion.html)  
+[How to send DNS over anything encrypted](https://www.slideshare.net/MenandMice/how-to-send-dns-over-anything-encrypted)  
+[Google Public DNS - DNS-over-HTTPS](https://developers.google.com/speed/public-dns/docs/dns-over-https)  
