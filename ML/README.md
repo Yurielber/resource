@@ -79,5 +79,5 @@
 ## AutoML  
 SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVanschoren/automl-lectures-acdl-2019)  
 [AutoML.org](http://www.automl.org/book/) PDF E-book [Automated Machine Learning-Methods,Systems,Challenges](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)  
-
+[【值得读】自动机器学习: 最新进展综述与开放挑战 | AutoML](https://blog.csdn.net/u9Oo9xkM169LeLDR84/article/details/93552223?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.nonecase)  
 
