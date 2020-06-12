@@ -81,3 +81,5 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [AutoML.org](http://www.automl.org/book/) PDF E-book [Automated Machine Learning-Methods,Systems,Challenges](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)  
 [【值得读】自动机器学习: 最新进展综述与开放挑战 | AutoML](https://blog.csdn.net/u9Oo9xkM169LeLDR84/article/details/93552223?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-10.nonecase)  
 
+## 概念漂移 & 模型漂移
+[Concept Drift and Model Decay in Machine Learning](https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4)  
