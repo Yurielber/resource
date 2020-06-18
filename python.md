@@ -9,3 +9,6 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## Resource ##
 [Python 资源大全中文版](https://jobbole.github.io/awesome-python-cn/)  
+
+## blog ##  
+*GIL* [Concurrent Programming in Python is not what you think it is](https://melvinkoh.me/concurrent-programming-in-python-is-not-what-you-think-it-is-cjn39wijd009e25s19bb6pb17?ref=hackernoon.com)  
