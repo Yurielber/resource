@@ -12,3 +12,7 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## blog ##  
 *GIL* [Concurrent Programming in Python is not what you think it is](https://melvinkoh.me/concurrent-programming-in-python-is-not-what-you-think-it-is-cjn39wijd009e25s19bb6pb17?ref=hackernoon.com)  
+
+## Book ##
+
+*DOUG HELLMANN* [THE PYTHON 3 STANDARD LIBRARY BY EXAMPLE](https://doughellmann.com/blog/the-python-3-standard-library-by-example/)  
