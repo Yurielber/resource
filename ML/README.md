@@ -51,7 +51,7 @@
 1. [Spark Monitor - An extension for Jupyter Notebook](https://github.com/krishnan-r/sparkmonitor)  
 1. [sparkTraining](https://github.com/prasanthkothuri/sparkTraining)  
 1. [Spark Monitor - How the extension works](https://krishnan-r.github.io/sparkmonitor/how.html)  
-1. [Jupyter Lab Spark Monitor](https://github.com/itsjafer/jupyterlab-sparkmonitor)  
+1. *Jupyterlab* [Jupyterlab Spark Monitor](https://github.com/itsjafer/jupyterlab-sparkmonitor)  
 1. *Spark+AI Summit 2019*[Performance Troubleshooting Using Apache Spark Metrics](https://www.slideshare.net/databricks/performance-troubleshooting-using-apache-spark-metrics)  
 
 ## Spark PySpark ##
