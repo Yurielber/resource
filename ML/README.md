@@ -63,6 +63,7 @@
 1. [Machine Learning as Code: A Year of Democratizing ML with Kubernetes and Kubeflow - David Aronchick Jason “Jay” Smith](https://github.com/warmchang/KubeCon-North-America-2018/blob/master/Machine%20Learning%20as%20Code%20and%20Kubernetes%20with%20Kubeflow.pdf)  
 
 ## Jupyter  
+1. [https://jupyter-client.readthedocs.io/en/stable/messaging.html](https://jupyter-client.readthedocs.io/en/stable/messaging.html)  
 1. [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)  
 1. [Python Data Science Handbook--Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)  
 1. [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)  
