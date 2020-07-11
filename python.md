@@ -16,3 +16,6 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 ## Book ##
 
 *DOUG HELLMANN* [THE PYTHON 3 STANDARD LIBRARY BY EXAMPLE](https://doughellmann.com/blog/the-python-3-standard-library-by-example/)  
+
+## package & distribute ##  
+[python Binaries and Dependencies](https://python-packaging-tutorial.readthedocs.io/en/latest/binaries_dependencies.html)  
