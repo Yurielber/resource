@@ -67,5 +67,9 @@
       }
 
 ## Spark on Yarn analyse ##
-[Spark on Yarn源码分析](!https://marsishandsome.github.io/images/spark_on_yarn_arch.png)
-https://marsishandsome.github.io/2018/03/Spark_on_Yarn%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90
+
+[Spark on Yarn源码分析](https://marsishandsome.github.io/2018/03/Spark_on_Yarn%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)  
+![结构](https://marsishandsome.github.io/images/spark_on_yarn_arch.png)
+
+## Spark UI FAQ ##
+[Can't access to SparkUI though YARN](https://stackoverflow.com/questions/51105320/cant-access-to-sparkui-though-yarn)
