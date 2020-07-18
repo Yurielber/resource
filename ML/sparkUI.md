@@ -1,4 +1,12 @@
 ## loginfo ##
+
+      20/07/17 03:50:44 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+      20/07/17 03:50:44 INFO SparkUI: Bound SparkUI to 172.18.0.59, and started at http://100.95.69.196:4040
+      
+      20/07/17 03:50:44 INFO SparkEnv: Registering OutputCommitCoordinator
+      20/07/17 03:50:44 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+      20/07/17 03:50:44 INFO SparkUI: Bound SparkUI to 172.18.0.59, and started at http://100.95.69.196:4040
+      
       20/07/17 03:51:15 INFO Client: Application report for application_1589882538336_868287 (state: ACCEPTED)
       20/07/17 03:51:15 INFO YarnSchedulerBackend$YarnSchedulerEndpoint: ApplicationMaster registered as NettyRpcEndpointRef(null)
       20/07/17 03:51:15 INFO YarnClientSchedulerBackend: Add WebUI Filter. org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter, Map(PROXY_HOSTS -> kwegtsfi006-mg,kwegtsfi005-mg, PROXY_URI_BASES -> https://kwegtsfi006-mg:26001/proxy/application_1589882538336_868287,https://kwegtsfi005-mg:26001/proxy/application_1589882538336_868287), /proxy/application_1589882538336_868287
