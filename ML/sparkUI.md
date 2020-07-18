@@ -1,4 +1,12 @@
+## loginfo ##
+      20/07/17 03:51:15 INFO Client: Application report for application_1589882538336_868287 (state: ACCEPTED)
+      20/07/17 03:51:15 INFO YarnSchedulerBackend$YarnSchedulerEndpoint: ApplicationMaster registered as NettyRpcEndpointRef(null)
+      20/07/17 03:51:15 INFO YarnClientSchedulerBackend: Add WebUI Filter. org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter, Map(PROXY_HOSTS -> kwegtsfi006-mg,kwegtsfi005-mg, PROXY_URI_BASES -> https://kwegtsfi006-mg:26001/proxy/application_1589882538336_868287,https://kwegtsfi005-mg:26001/proxy/application_1589882538336_868287), /proxy/application_1589882538336_868287
+      20/07/17 03:51:15 INFO JettyUtils: Adding filter: org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter
+      20/07/17 03:51:16 INFO Client: Application report for application_1589882538336_868287 (state: RUNNING)
+
 ## Spark 2.1 ##
+
 
 ### org.apache.spark.scheduler.cluster.CoarseGrainedClusterMessages.AddWebUIFilter ###
       // Exchanged between the driver and the AM in Yarn client mode
