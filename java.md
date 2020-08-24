@@ -45,3 +45,4 @@ http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-
 
 ## unclassified ##
 [IBM article Dealing with InterruptedException](https://www.ibm.com/developerworks/java/library/j-jtp05236/index.html)  
+[JVM Classloading](https://dev.vividbreeze.com/jvm-classloading/)
