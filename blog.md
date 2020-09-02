@@ -8,3 +8,4 @@
 [Classloader leaks I – How to find classloader leaks with Eclipse Memory Analyser (MAT)](http://java.jiderhamn.se/2011/12/11/classloader-leaks-i-how-to-find-classloader-leaks-with-eclipse-memory-analyser-mat/)  
 [ClassLoader leaks links](http://java.jiderhamn.se/category/classloader-leaks/)  
 [分布式事务](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)  
+[LINUX GDB: IDENTIFY MEMORY LEAKS](https://www.ibm.com/support/pages/linux-gdb-identify-memory-leaks)
