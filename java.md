@@ -34,6 +34,28 @@ https://caorong.github.io/2017/01/16/head-first-netty-3/
 http://restlet.com/company/blog/page/2/  
 http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-restlet-framework/  
 
+## Memory Leak ##
+[Native Memory Tracking in JVM](https://www.baeldung.com/native-memory-tracking-in-jvm)  
+describes native memory categories used by NMT  
+[NMT Memory Categories](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr022.html)  
+[How to monitor JVM native memory usage by enabling native memory tracking](https://help.mulesoft.com/s/article/How-to-monitor-JVM-native-memory-usage-by-enabling-native-memory-tracking)  
+[Java Platform, Standard Edition Troubleshooting Guide Native Memory Tracking](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr007.html)  
+[聊聊HotSpot VM的Native Memory Tracking](https://juejin.im/post/6844903806468096013)  
+[JVM Anatomy Quark #12: Native Memory Tracking](https://shipilev.net/jvm/anatomy-quarks/12-native-memory-tracking/)  
+This article explains the internal architecture of the Java Virtual Machine (JVM)  
+[JVM Internals](https://blog.jamesdbloom.com/JVMInternals.html)  
+[Java Memory Management](https://dzone.com/articles/java-memory-management)  
+[StackOverflow.com--Virtual Memory Usage from Java under Linux, too much memory used](https://stackoverflow.com/questions/561245/virtual-memory-usage-from-java-under-linux-too-much-memory-used)  
+[How To: MALLOC_ARENA_MAX](https://web.archive.org/web/20161228221330/https://infobright.com/blog/malloc_arena_max/)  
+[Troubleshooting Problems With Native (Off-Heap) Memory in Java Applications](https://dzone.com/articles/troubleshooting-problems-with-native-off-heap-memo)  
+[Introduction to JVM Code Cache](https://www.baeldung.com/jvm-code-cache#:~:text=To%20avoid%20this%2C%20we%20can,code%20cache%2C%2032KB%20or%2064KB)  
+[StackOverflow.com--Difference between Resident Set Size (RSS) and Java total committed memory (NMT) for a JVM running in Docker container](https://stackoverflow.com/questions/38597965/difference-between-resident-set-size-rss-and-java-total-committed-memory-nmt)  
+[StackOverflow.com--Is CompressedClassSpaceSize area contains MaxMetaspaceSize area?](https://stackoverflow.com/questions/54250638/is-compressedclassspacesize-area-contains-maxmetaspacesize-area)  
+[Tracking Memory Consumption Using Pmap](https://milianw.de/code-snippets/tracking-memory-consumption-using-pmap.html)  
+[pmap(1) - Linux man page](https://linux.die.net/man/1/pmap)  
+
+
+
 ## Apache Curator ##
 [Apache Curator Recipes Documents](https://curator.apache.org/curator-recipes/)  
 [ZK](http://zookeeper.apache.org/doc/r3.1.2/zookeeperProgrammers.html)  
