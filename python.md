@@ -19,3 +19,4 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## package & distribute ##  
 [python Binaries and Dependencies](https://python-packaging-tutorial.readthedocs.io/en/latest/binaries_dependencies.html)  
+[How pip install Works](https://pydist.com/blog/pip-install)  
