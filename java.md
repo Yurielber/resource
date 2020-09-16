@@ -45,8 +45,6 @@ describes native memory categories used by NMT
 This article explains the internal architecture of the Java Virtual Machine (JVM)  
 [JVM Internals](https://blog.jamesdbloom.com/JVMInternals.html)  
 [Java Memory Management](https://dzone.com/articles/java-memory-management)  
-[StackOverflow.com--Virtual Memory Usage from Java under Linux, too much memory used](https://stackoverflow.com/questions/561245/virtual-memory-usage-from-java-under-linux-too-much-memory-used)  
-[How To: MALLOC_ARENA_MAX](https://web.archive.org/web/20161228221330/https://infobright.com/blog/malloc_arena_max/)  
 [Troubleshooting Problems With Native (Off-Heap) Memory in Java Applications](https://dzone.com/articles/troubleshooting-problems-with-native-off-heap-memo)  
 [Introduction to JVM Code Cache](https://www.baeldung.com/jvm-code-cache#:~:text=To%20avoid%20this%2C%20we%20can,code%20cache%2C%2032KB%20or%2064KB)  
 [StackOverflow.com--Difference between Resident Set Size (RSS) and Java total committed memory (NMT) for a JVM running in Docker container](https://stackoverflow.com/questions/38597965/difference-between-resident-set-size-rss-and-java-total-committed-memory-nmt)  
@@ -54,6 +52,15 @@ This article explains the internal architecture of the Java Virtual Machine (JVM
 [Tracking Memory Consumption Using Pmap](https://milianw.de/code-snippets/tracking-memory-consumption-using-pmap.html)  
 [pmap(1) - Linux man page](https://linux.die.net/man/1/pmap)  
 
+
+## JAVA native Memory Leak ? ##
+[Consider lowering MALLOC_ARENA_MAX to prevent native memory OOM](https://github.com/prestodb/presto/issues/8993)
+#about MALLOC_ARENA_MAX*  
+The default maximum arena size is 1MB on 32-bit and 64MB on 64-bit. The default maximum number of arenas is the number of cores multiplied by 2 for 32-bit and 8 for 64-bit.
+This can increase fragmentation because the free trees are separate.
+[IBM about MALLOC_ARENA_MAX](https://web.archive.org/web/20200105040127/https://publib.boulder.ibm.com/httpserv/cookbook/Operating_Systems-Linux.html?lang=en#Operating_Systems-Linux-Physical_Memory_RAM-MALLOC_ARENA_MAX)  
+[StackOverflow.com--Virtual Memory Usage from Java under Linux, too much memory used](https://stackoverflow.com/questions/561245/virtual-memory-usage-from-java-under-linux-too-much-memory-used)  
+[How To: MALLOC_ARENA_MAX](https://web.archive.org/web/20161228221330/https://infobright.com/blog/malloc_arena_max/)  
 
 
 ## Apache Curator ##
