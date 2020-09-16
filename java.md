@@ -54,8 +54,8 @@ This article explains the internal architecture of the Java Virtual Machine (JVM
 
 
 ## JAVA native Memory Leak ? ##
-[Consider lowering MALLOC_ARENA_MAX to prevent native memory OOM](https://github.com/prestodb/presto/issues/8993)
-#about MALLOC_ARENA_MAX*  
+[Consider lowering MALLOC_ARENA_MAX to prevent native memory OOM](https://github.com/prestodb/presto/issues/8993)  
+*about MALLOC_ARENA_MAX*  
 The default maximum arena size is 1MB on 32-bit and 64MB on 64-bit. The default maximum number of arenas is the number of cores multiplied by 2 for 32-bit and 8 for 64-bit.
 This can increase fragmentation because the free trees are separate.
 [IBM about MALLOC_ARENA_MAX](https://web.archive.org/web/20200105040127/https://publib.boulder.ibm.com/httpserv/cookbook/Operating_Systems-Linux.html?lang=en#Operating_Systems-Linux-Physical_Memory_RAM-MALLOC_ARENA_MAX)  
