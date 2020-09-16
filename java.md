@@ -61,6 +61,7 @@ This can increase fragmentation because the free trees are separate.
 [IBM about MALLOC_ARENA_MAX](https://web.archive.org/web/20200105040127/https://publib.boulder.ibm.com/httpserv/cookbook/Operating_Systems-Linux.html?lang=en#Operating_Systems-Linux-Physical_Memory_RAM-MALLOC_ARENA_MAX)  
 [StackOverflow.com--Virtual Memory Usage from Java under Linux, too much memory used](https://stackoverflow.com/questions/561245/virtual-memory-usage-from-java-under-linux-too-much-memory-used)  
 [How To: MALLOC_ARENA_MAX](https://web.archive.org/web/20161228221330/https://infobright.com/blog/malloc_arena_max/)  
+[https://devcenter.heroku.com/articles/tuning-glibc-memory-behavior](https://devcenter.heroku.com/articles/tuning-glibc-memory-behavior)  
 
 
 ## Apache Curator ##
