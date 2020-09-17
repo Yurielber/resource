@@ -51,6 +51,7 @@ This article explains the internal architecture of the Java Virtual Machine (JVM
 [StackOverflow.com--Is CompressedClassSpaceSize area contains MaxMetaspaceSize area?](https://stackoverflow.com/questions/54250638/is-compressedclassspacesize-area-contains-maxmetaspacesize-area)  
 [Tracking Memory Consumption Using Pmap](https://milianw.de/code-snippets/tracking-memory-consumption-using-pmap.html)  
 [pmap(1) - Linux man page](https://linux.die.net/man/1/pmap)  
+[Java Memory Leaks: Tools, Fixes, and More](https://dzone.com/articles/what-to-do-about-java-memory-leaks-tools-fixes-and)  
 
 
 ## JAVA native Memory Leak ? ##  
@@ -79,4 +80,7 @@ This can increase fragmentation because the free trees are separate.
 
 ## unclassified ##
 [IBM article Dealing with InterruptedException](https://www.ibm.com/developerworks/java/library/j-jtp05236/index.html)  
-[JVM Classloading](https://dev.vividbreeze.com/jvm-classloading/)
+[JVM Classloading](https://dev.vividbreeze.com/jvm-classloading/)  
+
+# OSGi Version #  
+[OSGi Version](https://www.eclipse.org/virgo/documentation/virgo-documentation-3.7.0.M01/docs/virgo-user-guide/html/ch02s02.html)  
