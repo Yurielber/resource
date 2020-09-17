@@ -54,6 +54,7 @@ This article explains the internal architecture of the Java Virtual Machine (JVM
 
 
 ## JAVA native Memory Leak ? ##
+[Using jemalloc to get to the bottom of a memory leak](https://technology.blog.gov.uk/2015/12/11/using-jemalloc-to-get-to-the-bottom-of-a-memory-leak/)  
 [Debugging Java Native Memory Leaks](https://www.evanjones.ca/java-native-leak-bug.html)  
 [Tuning Glibc Environment Variables (e.g. MALLOC_ARENA_MAX)](https://github.com/cloudfoundry/java-buildpack/issues/320)  
 [Consider lowering MALLOC_ARENA_MAX to prevent native memory OOM](https://github.com/prestodb/presto/issues/8993)  
