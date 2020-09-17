@@ -10,3 +10,7 @@
 [分布式事务](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)  
 [LINUX GDB: IDENTIFY MEMORY LEAKS](https://www.ibm.com/support/pages/linux-gdb-identify-memory-leaks)  
 [Tracking Memory Consumption Using Pmap](https://milianw.de/code-snippets/tracking-memory-consumption-using-pmap.html)  
+
+
+#using strace to debug Linux system call#  
+[The ultimate strace cheat sheet](https://linux-audit.com/the-ultimate-strace-cheat-sheet/)  
