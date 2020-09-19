@@ -88,3 +88,5 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 
 ## 概念漂移 & 模型漂移
 [Concept Drift and Model Decay in Machine Learning](https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4)  
+[Model Drift in Machine Learning](https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)  
+[What is Model Drift?](https://blog.datatron.com/what-is-model-drift/)  
