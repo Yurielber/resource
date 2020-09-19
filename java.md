@@ -84,3 +84,7 @@ This can increase fragmentation because the free trees are separate.
 
 # OSGi Version #  
 [OSGi Version](https://www.eclipse.org/virgo/documentation/virgo-documentation-3.7.0.M01/docs/virgo-user-guide/html/ch02s02.html)  
+
+# blogs #  
+[Quartz scheduler misfire instructions explained](https://www.nurkiewicz.com/2012/04/quartz-scheduler-misfire-instructions.html)  
+[Java Compare and Swap Example – CAS Algorithm](https://howtodoinjava.com/java/multi-threading/compare-and-swap-cas-algorithm/)  
