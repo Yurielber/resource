@@ -90,3 +90,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [Concept Drift and Model Decay in Machine Learning](https://towardsdatascience.com/concept-drift-and-model-decay-in-machine-learning-a98a809ea8d4)  
 [Model Drift in Machine Learning](https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)  
 [What is Model Drift?](https://blog.datatron.com/what-is-model-drift/)  
+
+## Spark Model Evaluation ##
+[A Tale of Three Apache Spark APIs: RDDs vs DataFrames and Datasets](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)  
+[Evaluation Metrics - RDD-based API](http://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#evaluation-metrics-rdd-based-api)  
