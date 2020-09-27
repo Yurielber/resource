@@ -44,6 +44,7 @@
 1. [Spark推送数据到open-falcon](https://github.com/shangwen/SparkOpenFalconSink)  
 1. [A spark metrics sink that pushes to InfluxDb](https://github.com/palantir/spark-influx-sink)  
 1. [Py4J Issue: Evidence • Memory spiked during loading of trained ML models into python process. • Only on driver! Memory spikes Python Process Memory](https://www.slideshare.net/SparkSummit/monitoring-the-dynamic-resource-usage-of-scala-and-python-spark-jobs-in-yarn-spark-summit-east-talk-by-ed-barnes-and-ruslan-vaulin)  
+[PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)  
 1. [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)  
 
 ## Spark Monitor (Krishnan R)  
