@@ -21,3 +21,6 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 [python Binaries and Dependencies](https://python-packaging-tutorial.readthedocs.io/en/latest/binaries_dependencies.html)  
 [How pip install Works](https://pydist.com/blog/pip-install)  
 [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)  
+
+## python moudle ##  
+[What’s __init__ for me](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
