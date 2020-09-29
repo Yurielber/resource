@@ -4,6 +4,5 @@
 
 # pyspark architecture explained #  
 1. [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)  
-
-# INTERNALS OF PYSPARK #  
 1. [Dive into PySpark](https://www.slideshare.net/mateuszbuskiewicz/dive-into-pyspark)  
+1. [How Apache Spark Works – Run-time Spark Architecture](https://data-flair.training/blogs/how-apache-spark-works/)  
