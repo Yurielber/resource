@@ -98,3 +98,4 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 
 ## Machine Learning Tutorial ##  
 [Classifying flowers in Iris Dataset using Scala](https://hub.packtpub.com/classifying-flowers-in-iris-dataset-using-scala-tutorial/)  
+[Regression through the Origin](http://web.ist.utl.pt/~ist11038/compute/errtheory/,regression/regrthroughorigin.pdf)  
