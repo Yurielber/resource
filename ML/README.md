@@ -95,3 +95,6 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## Spark Model Evaluation ##
 [A Tale of Three Apache Spark APIs: RDDs vs DataFrames and Datasets](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)  
 [Evaluation Metrics - RDD-based API](http://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#evaluation-metrics-rdd-based-api)  
+
+## Machine Learning Tutorial ##  
+[Classifying flowers in Iris Dataset using Scala](https://hub.packtpub.com/classifying-flowers-in-iris-dataset-using-scala-tutorial/)  
