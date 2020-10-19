@@ -101,3 +101,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [Regression through the Origin](http://web.ist.utl.pt/~ist11038/compute/errtheory/,regression/regrthroughorigin.pdf)  
 [How to zip two (or more) DataFrame in Spark](https://stackoverflow.com/questions/32882529/how-to-zip-two-or-more-dataframe-in-spark)  
 [Introduction to pattern recognition](https://www.slideshare.net/lgustavomartins/introduction-to-pattern-recognition)  
+
+## Machine Learning ##  
+[How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)  
+
