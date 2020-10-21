@@ -58,6 +58,7 @@
 ## Spark PySpark ##
 1. [PySpark 的背后原理](http://sharkdtu.com/posts/pyspark-internal.html)  
 1. [GPU Computing with Apache Spark and Python](https://www.slideshare.net/continuumio/gpu-computing-with-apache-spark-and-python)  
+1. [PySpark Cheat Sheet: Spark DataFrames in Python](https://www.datacamp.com/community/blog/pyspark-sql-cheat-sheet)
 1. [Python For Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)  
 
 ## Kubeflow  
