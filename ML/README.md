@@ -109,3 +109,6 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)  
 [Computing the sparse matrix vector product using block-based kernels without zero padding on processors with AVX-512 instructions](https://peerj.com/articles/cs-151/)  
 
+## the TVM ##  
+[Apache TVM](https://tvm.apache.org/)  
+
