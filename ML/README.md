@@ -80,6 +80,7 @@
 1. [【知乎】分布式TensorFlow入门教程](https://zhuanlan.zhihu.com/p/35083779)  
 1. [Qubole Data Service](https://docs.qubole.com/en/latest/index.html)  
 1. [基于DNS数据分析的恶意域名检测](https://blog.csdn.net/qq_38262728/article/details/83211181)  
+1. [On solving an extremely wired issue of deploying spark-on-k8s](https://recursive.in/2017/12/08/solving-a-strange-issue-of-spark-on-k8s/)  
 
 ## notebook  
 1. [Explore Notebooks](https://www.zepl.com/explore)  
