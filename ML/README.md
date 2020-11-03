@@ -113,3 +113,6 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## the TVM ##  
 [Apache TVM](https://tvm.apache.org/)  
 
+## Deep Learning ##  
+[Python for Image Understanding: Deep Learning with Convolutional Neural Nets](https://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)  
+
