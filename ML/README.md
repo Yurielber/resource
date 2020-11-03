@@ -115,4 +115,4 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 
 ## Deep Learning ##  
 [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](https://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)  
-
+[Deep learning - Conceptual understanding and applications](https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709)  
