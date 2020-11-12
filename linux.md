@@ -30,4 +30,7 @@
 1. size 查看程序内存映像大小
 1. wget 文件下载
 1. scp 跨机远程拷贝
-1. crontab 定时任务
+1. crontab 定时任务  
+
+## compile  
+*Stack Overflow* [How can I link to a specific glibc version?](https://stackoverflow.com/questions/2856438/how-can-i-link-to-a-specific-glibc-version)  
