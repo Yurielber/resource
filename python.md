@@ -27,3 +27,11 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## Python Java bridges  
 [A brief overview of Python-Java bridges in 2020](https://talvi.net/a-brief-overview-of-python-java-bridges-in-2020.html)  
+
+## JPype Known limitations
+[JPype Known limitations](https://jpype.readthedocs.io/en/latest/userguide.html#jpype-known-limitations)
+1. Restarting the JVM  
+1. Running multiple JVM  
+
+## debug python with GDB  
+[使用 gdb 调试运行中的 Python 进程](https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html)  
