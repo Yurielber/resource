@@ -22,6 +22,12 @@
 1. [Connecting Livy to a Secured Kerberized HDP Cluster](https://henning.kropponline.de/2016/11/06/connecting-livy-to-a-secured-kerberized-hdp-cluster/)  
 1.[Hive tuning](https://www.slideshare.net/ye.mikez/hive-tuning)  
 
+## Hadoop Case Study  
+1. `libhdfs` is a JNI based C API for Hadoop’s Distributed File System (HDFS)  
+1. Hadoop Native Libraries Guide  
+1. [记录使用libhdfs访问hdfs的关键问题](https://www.cnblogs.com/qq120848369/p/3666757.html)  
+`libhdfs.so --> libjvm.so --> Hadoop Jars(CLASSPATH)`  
+
 ## Kafka ##
 [Apache Kafka Mailing Lists](https://mail-archives.apache.org/mod_mbox/kafka-users/)  
 [Apache Kafka Official Documentation](https://kafka.apache.org/documentation/)  
