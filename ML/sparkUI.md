@@ -77,3 +77,4 @@
 
 ## Case Study on AWS EMR  
 [Apache Spark Web UI on Amazon EMR](https://laujohn.com/2018/09/22/Apache-Spark-Web-UI-on-Amazon-EMR/)  
+[FLIP-26: Service Authorization (SSL Mutual Authentication)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=80453255)
