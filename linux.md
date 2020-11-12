@@ -43,3 +43,4 @@
 *Jpype* [SegFault when using jpype with numpy.linalg](https://github.com/jpype-project/jpype/issues/808)  
 *Jpype* [Unable to use JPype on IBM I series](https://github.com/jpype-project/jpype/issues/719)  
 *ELF versioned symbols* [What does version info in ldd -v mean?](https://stackoverflow.com/questions/36368588/what-does-version-info-in-ldd-v-mean/36387635#36387635)  
+*GDB* [Debugger Command Reference (GDB Mode)](https://scc.ustc.edu.cn/zlsc/sugon/intel/debugger/cl/main/bk_command_ref_gdb.htm)  
