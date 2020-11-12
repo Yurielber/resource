@@ -24,3 +24,6 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## python moudle ##  
 [What’s __init__ for me](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
+
+## Python Java bridges  
+[A brief overview of Python-Java bridges in 2020](https://talvi.net/a-brief-overview-of-python-java-bridges-in-2020.html)  
