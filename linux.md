@@ -11,6 +11,10 @@
 ## GDB debug with python  
 *Python Official Guide* [Debugging With Gdb](https://wiki.python.org/moin/DebuggingWithGdb)  
 
+## Shared Library explain (so file)  
+[Linux Shared Libraries Howto](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)  
+1. debuging shared library with Environment Variables `export LD_DEBUG=files`  
+
 ## Binary file analyze & toolkit  
 1. gdb 调试利器
 1. ldd 查看程序依赖库
@@ -34,3 +38,8 @@
 
 ## compile  
 *Stack Overflow* [How can I link to a specific glibc version?](https://stackoverflow.com/questions/2856438/how-can-i-link-to-a-specific-glibc-version)  
+
+## Case study  
+*Jpype* [SegFault when using jpype with numpy.linalg](https://github.com/jpype-project/jpype/issues/808)  
+*Jpype* [Unable to use JPype on IBM I series](https://github.com/jpype-project/jpype/issues/719)  
+*ELF Version* [What does version info in ldd -v mean?](https://stackoverflow.com/questions/36368588/what-does-version-info-in-ldd-v-mean/36387635#36387635)  
