@@ -5,7 +5,7 @@
 [Quick Guide to Gdb](https://condor.depaul.edu/glancast/373class/docs/gdb.html)  
 
 ## GDB debug with JVM  
-*Stack Overflow* [Handle SIGSEGV when debuging JVM with GDB](https://stackoverflow.com/questions/27241575/why-does-java-app-crash-in-gdb-but-runs-normally-in-real-life)  
+*Stack Overflow* *Handle SIGSEGV when debuging JVM with GDB* [Why does java app crash in gdb but runs normally in real life?](https://stackoverflow.com/questions/27241575/why-does-java-app-crash-in-gdb-but-runs-normally-in-real-life)  
 `(gdb) handle SIGSEGV nostop noprint pass`  
 
 ## GDB debug with python  
