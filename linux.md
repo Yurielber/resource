@@ -42,4 +42,4 @@
 ## Case study  
 *Jpype* [SegFault when using jpype with numpy.linalg](https://github.com/jpype-project/jpype/issues/808)  
 *Jpype* [Unable to use JPype on IBM I series](https://github.com/jpype-project/jpype/issues/719)  
-*ELF Version* [What does version info in ldd -v mean?](https://stackoverflow.com/questions/36368588/what-does-version-info-in-ldd-v-mean/36387635#36387635)  
+*ELF versioned symbols* [What does version info in ldd -v mean?](https://stackoverflow.com/questions/36368588/what-does-version-info-in-ldd-v-mean/36387635#36387635)  
