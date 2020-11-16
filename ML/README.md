@@ -125,4 +125,3 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 
 ## dataset case study  
 *Reuters-21578* *word2vec* [Applying Bag of Words and Word2Vec models on Reuters-21578 Dataset](https://elvinouyang.github.io/project/reuters-w2v-bow-get-started/)  
-**
