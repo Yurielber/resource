@@ -122,3 +122,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## Deep Learning ##  
 [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](https://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)  
 [Deep learning - Conceptual understanding and applications](https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709)  
+
+## dataset case study  
+*Reuters-21578* *word2vec* [Applying Bag of Words and Word2Vec models on Reuters-21578 Dataset](https://elvinouyang.github.io/project/reuters-w2v-bow-get-started/)  
+**
