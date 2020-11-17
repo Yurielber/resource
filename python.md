@@ -37,9 +37,12 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 [使用 gdb 调试运行中的 Python 进程](https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html)  
 [Python PDB doc](https://docs.python.org/3.7/library/pdb.html)  
 
+    # setting pdb on
     %pdb on
     
+    # enable step trace
     from IPython.core.debugger import set_trace
     set_trace()
-
-    b /usr/local/python3.7/lib/python3.7/site-packages/xxx/zzz.py:150
+    
+    # insert a breakpoint
+    breakpoint /usr/local/python3.7/lib/python3.7/site-packages/xxx/zzz.py:150
