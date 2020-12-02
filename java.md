@@ -92,6 +92,7 @@ This can increase fragmentation because the free trees are separate.
 ## Debug toolkit  
 * [jmap Utility -- The jmap command-line utility prints memory-related statistics for a running VM or core file](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr014.html)  
 * [Analyze JVM Core file](https://stackoverflow.com/questions/36109313/best-way-on-how-to-solve-debug-jvm-crash-sigsegv)`jmap -dump:format=b,file=dump.hprof /usr/bin/java core_file`  
+* [How to Use Verbose Options in Java -verbose:class|jni|gc](https://dzone.com/articles/how-use-verbose-options-java)  
 
 ## case study (JVM SIGSEGV)  
 [Best way on how to solve/debug JVM crash (SIGSEGV)](https://stackoverflow.com/questions/36109313/best-way-on-how-to-solve-debug-jvm-crash-sigsegv)  
