@@ -132,4 +132,4 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## Hadoop YARN analysis  
 [Official Web Application Proxy](http://archive.cloudera.com/cdh5/cdh/5/hadoop/hadoop-yarn/hadoop-yarn-site/WebApplicationProxy.html)  
 [Hadoop Two Web Proxy Server](http://johnjianfang.blogspot.com/2014/09/hadoop-two-web-proxy-server.html)  
-[Hadoop Architecture Overview](http://ercoppa.github.io/HadoopInternals/HadoopArchitectureOverview.html)  
+[Hadoop Internals Series -- Hadoop Architecture Overview](http://ercoppa.github.io/HadoopInternals/HadoopArchitectureOverview.html)  
