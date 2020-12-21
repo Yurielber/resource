@@ -133,8 +133,16 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## Hadoop YARN analysis  
 [Official Web Application Proxy](http://archive.cloudera.com/cdh5/cdh/5/hadoop/hadoop-yarn/hadoop-yarn-site/WebApplicationProxy.html)  
 [Hadoop Two Web Proxy Server](http://johnjianfang.blogspot.com/2014/09/hadoop-two-web-proxy-server.html)  
-[Hadoop Internals Series -- Hadoop Architecture Overview](http://ercoppa.github.io/HadoopInternals/HadoopArchitectureOverview.html)  
+----[Hadoop Internals Series -- Hadoop Architecture Overview](http://ercoppa.github.io/HadoopInternals/HadoopArchitectureOverview.html)  
 
 ## Random Forest Analysis  
 [Spark 随机森林算法原理、源码分析及案例实战](https://developer.ibm.com/zh/articles/os-cn-spark-random-forest/)  
 [RandomForest in Spark MLLib](https://www.cnblogs.com/luweiseu/p/7771304.html)  
+[Spark MLlib Random Forest tuning guide Usage tips V1.2.2](https://spark.apache.org/docs/1.2.2/mllib-ensembles.html)  
+[Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)  
+
+
+## Random Forest Visualize(Python)  
+[How to visualize a single Decision Tree from the Random Forest in Scikit-Learn (Python)?](https://mljar.com/blog/visualize-tree-from-random-forest/)  
+[Visualize a Decision Tree in 4 Ways with Scikit-Learn and Python](https://mljar.com/blog/visualize-decision-tree/)  
+
