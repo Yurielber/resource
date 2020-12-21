@@ -141,8 +141,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [Spark MLlib Random Forest tuning guide Usage tips V1.2.2](https://spark.apache.org/docs/1.2.2/mllib-ensembles.html)  
 [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)  
 
-
-## Random Forest Visualize(Python)  
+## Visualize  
+[Plotting in Jupyter Notebooks with Scala and EvilPlot](https://medium.com/swlh/plotting-in-jupyter-notebooks-with-scala-and-evilplot-aacab63a896)  
 [How to visualize a single Decision Tree from the Random Forest in Scikit-Learn (Python)?](https://mljar.com/blog/visualize-tree-from-random-forest/)  
 [Visualize a Decision Tree in 4 Ways with Scikit-Learn and Python](https://mljar.com/blog/visualize-decision-tree/)  
-
