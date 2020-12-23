@@ -127,8 +127,6 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## dataset case study  
 *Reuters-21578* *word2vec* [Applying Bag of Words and Word2Vec models on Reuters-21578 Dataset](https://elvinouyang.github.io/project/reuters-w2v-bow-get-started/)  
 
-## MachineLearning Model Visualization  
-[How to Visualize a Decision Tree from a Random Forest in Python using Scikit-Learn](https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c)  
 
 ## Hadoop YARN analysis  
 [Official Web Application Proxy](http://archive.cloudera.com/cdh5/cdh/5/hadoop/hadoop-yarn/hadoop-yarn-site/WebApplicationProxy.html)  
