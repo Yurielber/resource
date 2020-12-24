@@ -13,4 +13,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.plot_confusion
 [Plot table along chart using matplotlib](https://stackoverflow.com/questions/53573121/plot-table-along-chart-using-matplotlib)  
 [Matplotlib.axes.Axes.add_table in Python](https://www.geeksforgeeks.org/matplotlib-axes-axes-add_table-in-python/)  
 [How to assign specific colors to specific cells in a Matplotlib table?](https://stackoverflow.com/questions/46663911/how-to-assign-specific-colors-to-specific-cells-in-a-matplotlib-table)  
-[<Python Data Science Handbook> Customizing Colorbars](https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html)  
+[Python Data Science Handbook--Customizing Colorbars](https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html)  
