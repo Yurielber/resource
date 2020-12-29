@@ -138,6 +138,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [RandomForest in Spark MLLib](https://www.cnblogs.com/luweiseu/p/7771304.html)  
 [Random Forest Algorithm - Random Forest Explained | Random Forest In Machine Learning | Simplilearn](https://www.slideshare.net/Simplilearn/random-forest-algorithm-random-forest-explained-random-forest-in-machine-learning-simplilearn-91647398)  
 [Building Random Forest at Scale](https://www.slideshare.net/0xdata/rf-brighttalk)  
+[Improving Ensemble of Trees in MLlib](http://www.zhiyuanlin.com/uploads/5/8/8/1/58812849/improvingmllib.pdf)  
 [Spark MLlib Random Forest tuning guide Usage tips V1.2.2](https://spark.apache.org/docs/1.2.2/mllib-ensembles.html)  
 [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)  
 [xgboost系列丨xgboost原理及公式推导](https://mp.weixin.qq.com/s/4RMKpfOsr8zCzToqKnTiLg)  
