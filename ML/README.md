@@ -67,6 +67,8 @@
 1. [PySpark Cheat Sheet: Spark DataFrames in Python](https://www.datacamp.com/community/blog/pyspark-sql-cheat-sheet)
 1. [Python For Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)  
 1. [https://github.com/runawayhorse001/CheatSheet/blob/master/cheatSheet_pyspark.pdf](https://github.com/runawayhorse001/CheatSheet/blob/master/cheatSheet_pyspark.pdf)  
+1. [https://runawayhorse001.github.io/LearningApacheSpark/index.html](Learning Apache Spark with Python)  
+1. PDF Version[https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf](Learning Apache Spark with Python - PDF version)  
 
 ## Kubeflow  
 1. [Introduction to Kubeflow - 11th October 2018 World AI Summit 2018](https://cdn2.hubspot.net/hubfs/4149027/WSAI/DAY%202%20-%20STREAMS/16:05%20-%2016:20%20-%20Marc-Etienne%20Ouimette,%20Director%20of%20Public%20Policy,%20Element%20AI%20-%20Overview%20of%20the%20AI%20landscape%20in%20Canada%20from%20Element%20AI,%20pioneers%20of%20an%20AI-First%20world%20by%20turning%20cutting-edge%20AI%20research%20into%20transformative%20business%20applications.pdf)  
