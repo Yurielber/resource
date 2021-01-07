@@ -34,6 +34,10 @@ https://caorong.github.io/2017/01/16/head-first-netty-3/
 http://restlet.com/company/blog/page/2/  
 http://restlet.com/company/blog/2016/03/23/customizing-the-jackson-converter-of-restlet-framework/  
 
+## Java String Maximum length ##  
+[https://www.programmersought.com/article/83356655073/](The length limit of String in Java)  
+
+
 ## Memory Leak ##
 [Native Memory Tracking in JVM](https://www.baeldung.com/native-memory-tracking-in-jvm)  
 describes native memory categories used by NMT  
