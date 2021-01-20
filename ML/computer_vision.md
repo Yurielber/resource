@@ -7,3 +7,5 @@
 
 ## Object Detection on Video  
 [The Ultimate Guide to Video Object Detection](https://towardsdatascience.com/ug-vod-the-ultimate-guide-to-video-object-detection-816a76073aef)  
+
+[Analytics India Magazine](https://analyticsindiamag.com/)  
