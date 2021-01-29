@@ -8,4 +8,5 @@
 ## Object Detection on Video  
 [The Ultimate Guide to Video Object Detection](https://towardsdatascience.com/ug-vod-the-ultimate-guide-to-video-object-detection-816a76073aef)  
 
-[Analytics India Magazine](https://analyticsindiamag.com/)  
+## Books  
+[Computer Vision: Algorithms and Applications - Richard Szeliski](https://github.com/wallEVA96/algorithm/blob/master/Computer%20Vision%20AlgorithmApplication.pdf)  
