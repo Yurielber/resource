@@ -89,6 +89,7 @@
 1. [Qubole Data Service](https://docs.qubole.com/en/latest/index.html)  
 1. [基于DNS数据分析的恶意域名检测](https://blog.csdn.net/qq_38262728/article/details/83211181)  
 1. [On solving an extremely wired issue of deploying spark-on-k8s](https://recursive.in/2017/12/08/solving-a-strange-issue-of-spark-on-k8s/)  
+1. [xgboost系列丨xgboost原理及公式推导](https://mp.weixin.qq.com/s/4RMKpfOsr8zCzToqKnTiLg)  
 
 ## notebook  
 1. [Explore Notebooks](https://www.zepl.com/explore)  
@@ -144,7 +145,7 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 [Improving Ensemble of Trees in MLlib](http://www.zhiyuanlin.com/uploads/5/8/8/1/58812849/improvingmllib.pdf)  
 [Spark MLlib Random Forest tuning guide Usage tips V1.2.2](https://spark.apache.org/docs/1.2.2/mllib-ensembles.html)  
 [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)  
-[xgboost系列丨xgboost原理及公式推导](https://mp.weixin.qq.com/s/4RMKpfOsr8zCzToqKnTiLg)  
+[Decoding the probabilities in Random Forest](https://www.linkedin.com/pulse/decoding-probabilities-random-forest-sanchit-tiwari/)  
 
 ## Visualize  
 [Plotting in Jupyter Notebooks with Scala and EvilPlot](https://medium.com/swlh/plotting-in-jupyter-notebooks-with-scala-and-evilplot-aacab63a896)  
