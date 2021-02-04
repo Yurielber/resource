@@ -4,6 +4,7 @@
 
 # pyspark architecture explained #  
 1. explained how pyspark works internal [Dive into PySpark](https://www.slideshare.net/mateuszbuskiewicz/dive-into-pyspark)  
+1. compare different serialization method in pyspark [Serialization][https://github.com/awesome-spark/spark-gotchas/blob/master/09_serialization.md)
 1. [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)  
 1. [How Apache Spark Works – Run-time Spark Architecture](https://data-flair.training/blogs/how-apache-spark-works/)  
 1. [PySpark 的背后原理](http://sharkdtu.com/posts/pyspark-internal.html)  
