@@ -11,6 +11,9 @@
 ## GDB debug with python  
 *Python Official Guide* [Debugging With Gdb](https://wiki.python.org/moin/DebuggingWithGdb)  
 
+## GDB command reference card  
+[GDB QUICK REFERENCE](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)  
+
 ## Shared Library explain (so file)  
 [Linux Shared Libraries Howto](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)  
 1. debuging shared library with Environment Variables `export LD_DEBUG=files`  
