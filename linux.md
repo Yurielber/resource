@@ -48,3 +48,4 @@
 *ELF versioned symbols* [What does version info in ldd -v mean?](https://stackoverflow.com/questions/36368588/what-does-version-info-in-ldd-v-mean/36387635#36387635)  
 *GDB* [Debugger Command Reference (GDB Mode)](https://scc.ustc.edu.cn/zlsc/sugon/intel/debugger/cl/main/bk_command_ref_gdb.htm)  
 [Using GNU's GDB Debugger Memory Layout And The Stack](https://www.comp.nus.edu.sg/~liangzk/cs5231/stacklayout.pdf)  
+[Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/index.html)  
