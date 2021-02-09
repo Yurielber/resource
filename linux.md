@@ -49,3 +49,4 @@
 *GDB* [Debugger Command Reference (GDB Mode)](https://scc.ustc.edu.cn/zlsc/sugon/intel/debugger/cl/main/bk_command_ref_gdb.htm)  
 [Using GNU's GDB Debugger Memory Layout And The Stack](https://www.comp.nus.edu.sg/~liangzk/cs5231/stacklayout.pdf)  
 [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/index.html)  
+[我们是怎么发现C++异常从堆栈追踪中消失的原因的](https://abcdabcd987.com/libstdc++-bug/)  
