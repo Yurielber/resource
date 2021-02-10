@@ -38,6 +38,7 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 [Debugging of CPython processes with gdb](https://www.podoliaka.org/2016/04/10/debugging-cpython-gdb/)  
 [Easier Python Debugging](https://fedoraproject.org/wiki/Features/EasierPythonDebugging)  
 [使用 gdb 调试运行中的 Python 进程](https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html)  
+[Debugging of Python applications](https://www.slideshare.net/amd4ever/debugging-of-cpython-applications-71486119?next_slideshow=1)  
 
 ## debug with PDB  
 [Python PDB doc](https://docs.python.org/3.7/library/pdb.html)  
