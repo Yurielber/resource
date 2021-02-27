@@ -95,6 +95,11 @@
 1. [Explore Notebooks](https://www.zepl.com/explore)  
 1. [Apache Zeppelin on Kubernetes with Spark and Kafka](https://www.slideshare.net/apachezeppelin/apache-zeppelin-on-kubernetes-with-spark-and-kafka-meetup-twitter)  
 
+## Hive work with Spark  
+[Spark2.1.0入门：连接Hive读写数据（DataFrame）](http://dblab.xmu.edu.cn/blog/1383-2/)  
+[Hive with Spark 实战](https://www.jianshu.com/p/60e7e16fb3ce)  
+[Yarn-Cluster模式下Spark连接Hive报错Delegation Token can be issued only](https://bbs.huaweicloud.com/forum/thread-102343-1-1.html)  
+
 ## AutoML  
 [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)  
 SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVanschoren/automl-lectures-acdl-2019)  
