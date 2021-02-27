@@ -169,4 +169,5 @@ Flink’s features:
 2. Delta iterations •  Limit computation to elements which matter  
 3. Pipelining •  Avoiding materialization of large intermediate state  
 
-[Machine Learning with Apache Flink at Stockholm Machine Learning Group](https://www.slideshare.net/tillrohrmann/machine-learning-with-apache-flink)
+[Machine Learning with Apache Flink at Stockholm Machine Learning Group](https://www.slideshare.net/tillrohrmann/machine-learning-with-apache-flink)  
+[Spark versus Flink: Understanding Performance in Big Data Analytics Frameworks](https://hal.inria.fr/hal-01347638v2/document)  
