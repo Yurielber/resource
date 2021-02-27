@@ -18,3 +18,6 @@ This is project contain all URL collections
 [The LLVM Compiler Infrastructure](https://llvm.org/)  
 [MLIR: A new intermediate representation and compiler framework](https://blog.tensorflow.org/2019/04/mlir-new-intermediate-representation.html)  
 [LLVM Cookbook](https://github.com/iBreaker/book/blob/master/LLVM%20Cookbook.pdf)  
+
+## blog  
+[My two favorite math equations](https://www.ricklindquist.com/blog/my-two-favorite-math-equations)  
