@@ -1,3 +1,6 @@
+# Spark explained  
+[一文弄懂Spark基本架构和原理](https://blog.csdn.net/oTengYue/article/details/88405479)  
+
 # python source explained #  
 1. pyspark python class is multiple inheritance  
 1. PySpark's tests are a mixture of doctests and unittests.[pyspark Unit Testing](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)    
