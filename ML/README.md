@@ -164,3 +164,8 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 
 ## Apache Flink for Machine Learning  
 [How TensorFlow on Flink Works: Flink Advanced Tutorials](https://medium.datadriveninvestor.com/how-tensorflow-on-flink-works-flink-advanced-tutorials-3bce16db047)  
+Flink’s features:  
+1. Stateful iterations •  Keep state across iterations  
+2. Delta iterations •  Limit computation to elements which matter  
+3. Pipelining •  Avoiding materialization of large intermediate state  
+[Machine Learning with Apache Flink at Stockholm Machine Learning Group](https://www.slideshare.net/tillrohrmann/machine-learning-with-apache-flink)
