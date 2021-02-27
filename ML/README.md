@@ -161,3 +161,6 @@ SlideShare [AutoML lectures (ACDL 2019)](https://www.slideshare.net/JoaquinVansc
 ## gensim Word2Vec Doc2Vec  
 [How to reproduce the doc2vec ‘Paragraph Vector’ paper](https://radimrehurek.com/gensim/auto_examples/howtos/run_doc2vec_imdb.html#how-to-reproduce-the-doc2vec-paragraph-vector-paper)  
 [Ensure the gensim generate the same Word2Vec model for different runs on the same data](https://stackoverflow.com/questions/34831551/ensure-the-gensim-generate-the-same-word2vec-model-for-different-runs-on-the-sam)  
+
+## Apache Flink for Machine Learning  
+[How TensorFlow on Flink Works: Flink Advanced Tutorials](https://medium.datadriveninvestor.com/how-tensorflow-on-flink-works-flink-advanced-tutorials-3bce16db047)  
