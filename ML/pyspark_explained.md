@@ -14,4 +14,5 @@
 1. [一文弄懂PySpark原理与实践](https://blog.csdn.net/oTengYue/article/details/88417186)  
 1. [PySpark源码分析之AM端运行流程（Driver）](https://blog.csdn.net/oTengYue/article/details/105379628)  
 1. [PySpark源码分析之Driver端基于Py4j的通信详解](https://blog.csdn.net/oTengYue/article/details/106376108)  
-
+1. [How to Manage Python Dependencies in PySpark](https://databricks.com/blog/2020/12/22/how-to-manage-python-dependencies-in-pyspark.html)  
+2. 
