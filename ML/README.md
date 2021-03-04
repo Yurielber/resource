@@ -172,4 +172,10 @@ Flink’s features:
 [Machine Learning with Apache Flink at Stockholm Machine Learning Group](https://www.slideshare.net/tillrohrmann/machine-learning-with-apache-flink)  
 [Spark versus Flink: Understanding Performance in Big Data Analytics Frameworks](https://hal.inria.fr/hal-01347638v2/document)  
 
-[Multiphoton Vasculature Segmentation #5: U-Net](https://www.slideshare.net/PetteriTeikariPhD/multiphoton-vasculature-segmentation-5-unet)  
+## U-Net explained ##  
+slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slideshare.net/PetteriTeikariPhD/multiphoton-vasculature-segmentation-5-unet)  
+[UNet: semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)  
+[U-Net for brain segmentation](https://github.com/mateuszbuda/brain-segmentation-pytorch)  
+[Understanding UNET](https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8)  
+
+
