@@ -178,4 +178,25 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 [U-Net for brain segmentation](https://github.com/mateuszbuda/brain-segmentation-pytorch)  
 [Understanding UNET](https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8)  
 
+## Meter Reading ##  
+[How to use deep learning & OCR for data extraction from meter readings](https://nanonets.com/blog/sub-meter-reading-using-deep-learning/)  
+[Analogue Gauge Reader using Computer Vision](https://medium.com/@nayak.abhijeet1/analogue-gauge-reader-using-computer-vision-62fbd6ec84cc)  
+
+
+[Deep Learning for Image Segmentation: U-Net Architecture](https://heartbeat.fritz.ai/deep-learning-for-image-segmentation-u-net-architecture-ff17f6e4c1cf)  
+[An Idea From Physics Helps AI See in Higher Dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/)  
+[An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)  
+[machine-learning-models/UNet/test.ipynb](https://github.com/MJeremy2017/machine-learning-models/blob/master/UNet/test.ipynb)  
+[UNET-TGS/TGS UNET.ipynb](https://github.com/hlamba28/UNET-TGS/blob/master/TGS%20UNET.ipynb)  
+[UNet — Line by Line Explanation](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)  
+[U-Net Copy and Crop
+ Reason for crop: Now when merging since the resolution of the two feature maps is not the same they are cropped. Before concatenating (572x572) with (392x392) it needs to be cropped.](https://stackoverflow.com/questions/53068877/u-net-copy-and-crop)  
+[How to Manage Python Dependencies in PySpark](https://databricks.com/blog/2020/12/22/how-to-manage-python-dependencies-in-pyspark.html)  
+[Beginner question: model returns NAN](https://discuss.pytorch.org/t/beginner-question-model-returns-nan/110663)  
+[Losses end up becoming NAN during training. how to debug and fix them?](https://discuss.pytorch.org/t/losses-end-up-becoming-nan-during-training-how-to-debug-and-fix-them/99291)  
+[How to prevent inf while working with exponential](https://stackoverflow.com/questions/60903821/how-to-prevent-inf-while-working-with-exponential)  
+[Dealing with NaNs and infs](https://stable-baselines3.readthedocs.io/en/master/guide/checking_nan.html)  
+[Nvdia Mixed Precision Training](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html#pytorch)  
+[Diving Into Spark 2.1.0 Blacklisting Feature](https://blog.yuvalitzchakov.com/diving-into-spark-2.1.0-blacklisting-feature/)  
+
 
