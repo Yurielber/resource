@@ -207,3 +207,6 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 [Diving Into Spark 2.1.0 Blacklisting Feature](https://blog.yuvalitzchakov.com/diving-into-spark-2.1.0-blacklisting-feature/)  
 
 [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)  
+
+## Image Labelling and Annotation ##  
+[Image Data Labelling and Annotation - Everything you need to know](https://www.xailient.com/post/image-data-labelling-and-annotation)  
