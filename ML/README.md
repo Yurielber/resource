@@ -210,3 +210,5 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 
 ## Image Labelling and Annotation ##  
 [Image Data Labelling and Annotation - Everything you need to know](https://www.xailient.com/post/image-data-labelling-and-annotation)  
+[Create COCO Annotations From Scratch](https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)  
+
