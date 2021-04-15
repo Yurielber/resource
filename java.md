@@ -97,10 +97,10 @@ This can increase fragmentation because the free trees are separate.
 * [jmap Utility -- The jmap command-line utility prints memory-related statistics for a running VM or core file](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr014.html)  
 * [Analyze JVM Core file](https://stackoverflow.com/questions/36109313/best-way-on-how-to-solve-debug-jvm-crash-sigsegv)`jmap -dump:format=b,file=dump.hprof /usr/bin/java core_file`  
 * [How to Use Verbose Options in Java -verbose:class|jni|gc](https://dzone.com/articles/how-use-verbose-options-java)  
+* [Troubleshooting JAVA SSL with certificates](https://opennms.discourse.group/t/troubleshoot-java-with-self-signed-certificates/55)  
 
 ## case study (JVM SIGSEGV)  
 [Best way on how to solve/debug JVM crash (SIGSEGV)](https://stackoverflow.com/questions/36109313/best-way-on-how-to-solve-debug-jvm-crash-sigsegv)  
 [Why does java app crash in gdb but runs normally in real life?](https://stackoverflow.com/questions/27241575/why-does-java-app-crash-in-gdb-but-runs-normally-in-real-life)  
 [Native Java Debugging on Alpine Linux: GDB, OpenJDK and the Mysterious Unknown Signal](https://www.overops.com/blog/native-java-debugging-on-alpine-linux-gdb-openjdk-and-the-mysterious-unknown-signal/)  
 [Determine Where the Crash Occurred](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/crashes001.html#CIHJABGA)  
-
