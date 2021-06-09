@@ -212,3 +212,6 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 [Image Data Labelling and Annotation - Everything you need to know](https://www.xailient.com/post/image-data-labelling-and-annotation)  
 [Create COCO Annotations From Scratch](https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)  
 
+## Hardware for Deep Learning ##  
+[Hardware for Deep Learning. Part 3: GPU](https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664)  
+
