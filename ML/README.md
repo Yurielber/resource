@@ -213,5 +213,8 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 [Create COCO Annotations From Scratch](https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)  
 
 ## Hardware for Deep Learning ##  
+[Hardware for Deep Learning. Part 1: Introduction](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)  
+[Hardware for Deep Learning. Part 2: CPU](https://blog.inten.to/cpu-hardware-for-deep-learning-b91f53cb18af)  
 [Hardware for Deep Learning. Part 3: GPU](https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664)  
+[Hardware for Deep Learning. Part 4: ASIC](https://blog.inten.to/hardware-for-deep-learning-part-4-asic-96a542fe6a81)  
 
