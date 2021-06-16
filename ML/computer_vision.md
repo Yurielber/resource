@@ -12,3 +12,6 @@
 
 ## Books  
 [Computer Vision: Algorithms and Applications - Richard Szeliski](https://github.com/wallEVA96/algorithm/blob/master/Computer%20Vision%20AlgorithmApplication.pdf)  
+
+[The Complete Guide on Visual Positioning System](https://www.techfunnel.com/information-technology/visual-positioning-system/)  
+[What Is SLAM?3 things you need to know](https://ww2.mathworks.cn/discovery/slam.html)  
