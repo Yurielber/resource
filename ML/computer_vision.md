@@ -15,3 +15,4 @@
 
 [The Complete Guide on Visual Positioning System](https://www.techfunnel.com/information-technology/visual-positioning-system/)  
 [What Is SLAM?3 things you need to know](https://ww2.mathworks.cn/discovery/slam.html)  
+[How Google Builds Its Maps—and What It Means for the Future of Everything](https://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
