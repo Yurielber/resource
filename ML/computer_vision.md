@@ -20,3 +20,7 @@ AR & SLAM & SFM(Structure from Motion)
 [How Google Builds Its Maps—and What It Means for the Future of Everything](https://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
 [Lecture 9 AR Technology](https://www.slideshare.net/marknb00/lecture9-ar-technology)  
 [Ground volume assessment using ’Structure from Motion’ photogrammetry with a smartphone and a compact camera](https://www.degruyter.com/document/doi/10.1515/geo-2017-0023/html)  
+[Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html)  
+
+
+[Bluetooth Low Energy (BLE) Beacon Technology Made Simple: A Complete Guide to Bluetooth Beacons](https://blog.beaconstac.com/2018/08/ble-made-simple-a-complete-guide-to-ble-bluetooth-beacons/)  
