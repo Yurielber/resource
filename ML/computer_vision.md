@@ -21,6 +21,7 @@ AR & SLAM & SFM(Structure from Motion)
 [Lecture 9 AR Technology](https://www.slideshare.net/marknb00/lecture9-ar-technology)  
 [Ground volume assessment using ’Structure from Motion’ photogrammetry with a smartphone and a compact camera](https://www.degruyter.com/document/doi/10.1515/geo-2017-0023/html)  
 [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html)  
+[HOW AUGMENTED REALITY NAVIGATION SYSTEMS WORK](https://mobidev.biz/blog/augmented-reality-indoor-navigation-app-developement-arkit)  
 
 
 [Bluetooth Low Energy (BLE) Beacon Technology Made Simple: A Complete Guide to Bluetooth Beacons](https://blog.beaconstac.com/2018/08/ble-made-simple-a-complete-guide-to-ble-bluetooth-beacons/)  
