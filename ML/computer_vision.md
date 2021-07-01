@@ -13,6 +13,10 @@
 ## Books  
 [Computer Vision: Algorithms and Applications - Richard Szeliski](https://github.com/wallEVA96/algorithm/blob/master/Computer%20Vision%20AlgorithmApplication.pdf)  
 
+
+AR & SLAM & SFM(Structure from Motion)  
 [The Complete Guide on Visual Positioning System](https://www.techfunnel.com/information-technology/visual-positioning-system/)  
 [What Is SLAM?3 things you need to know](https://ww2.mathworks.cn/discovery/slam.html)  
 [How Google Builds Its Maps—and What It Means for the Future of Everything](https://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
+[Lecture 9 AR Technology](https://www.slideshare.net/marknb00/lecture9-ar-technology)  
+[Ground volume assessment using ’Structure from Motion’ photogrammetry with a smartphone and a compact camera](https://www.degruyter.com/document/doi/10.1515/geo-2017-0023/html)  
