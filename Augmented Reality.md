@@ -5,7 +5,7 @@
 ## WWDC 2018 ##
 [Prototyping for AR](https://developer.apple.com/videos/play/wwdc2018/808/)  
 [Metal for VR](https://developer.apple.com/videos/play/wwdc2018/611/)  
-[Understanding ARKit Tracking and Detection](https://developer.apple.com/videos/play/wwdc2018/610/)  
+### [Understanding ARKit Tracking and Detection](https://developer.apple.com/videos/play/wwdc2018/610/)  
 [Creating Great AR Experiences](https://developer.apple.com/videos/play/wwdc2018/805/)  
 [Inside SwiftShot: Creating an AR Game](https://developer.apple.com/videos/play/wwdc2018/605/)  
 [Integrating Apps and Content with AR Quick Look](https://developer.apple.com/videos/play/wwdc2018/603/)  
@@ -16,7 +16,7 @@
 [Advances in AR Quick Look](https://developer.apple.com/videos/play/wwdc2019/612/)  
 [Building AR Experiences with Reality Composer](https://developer.apple.com/videos/play/wwdc2019/609/)  
 [Building Collaborative AR Experiences](https://developer.apple.com/videos/play/wwdc2019/610/)  
-*[Creating Great Apps Using Core ML and ARKit](https://developer.apple.com/videos/play/wwdc2019/228/)  
+### [Creating Great Apps Using Core ML and ARKit](https://developer.apple.com/videos/play/wwdc2019/228/)  
 [Bringing People into AR](https://developer.apple.com/videos/play/wwdc2019/607/)  
 [Introducing ARKit 3](https://developer.apple.com/videos/play/wwdc2019/604/)  
 [Building Apps with RealityKit](https://developer.apple.com/videos/play/wwdc2019/605/)  
