@@ -218,3 +218,5 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 [Hardware for Deep Learning. Part 3: GPU](https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664)  
 [Hardware for Deep Learning. Part 4: ASIC](https://blog.inten.to/hardware-for-deep-learning-part-4-asic-96a542fe6a81)  
 
+## AIOps ##  
+[时序数据异常检测做到这种段位，还怕什么告警风暴](https://dbaplus.cn/news-134-3515-1.html)  
