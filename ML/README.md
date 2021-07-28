@@ -220,3 +220,6 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 
 ## AIOps ##  
 [时序数据异常检测做到这种段位，还怕什么告警风暴](https://dbaplus.cn/news-134-3515-1.html)  
+
+## Transfer learning ##  
+[Transfer learning and the art of using Pre-trained Models in Deep Learning](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)  
