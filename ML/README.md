@@ -223,3 +223,5 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 
 ## Transfer learning ##  
 [Transfer learning and the art of using Pre-trained Models in Deep Learning](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)  
+
+[Head Pose Estimation with Computer Vision](https://indatalabs.com/blog/head-pose-estimation-with-cv)  
