@@ -226,3 +226,7 @@ slideshare [Multiphoton Vasculature Segmentation #5: U-Net](https://www.slidesha
 
 [Head Pose Estimation with Computer Vision](https://indatalabs.com/blog/head-pose-estimation-with-cv)  
 [不同的AI视频推理场景下，如何构建通用高效的抽帧工具？](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247492631&idx=1&sn=d5271e21f25eddc7c997442aa9d1e40b&chksm=e9757834de02f122dbf9258c889b83d9e103911ec6c4aeb82465ea48b2212ad9ea8b4be9d15d&scene=178&cur_album_id=1604543620324360193#rd)  
+
+OpenCV  
+[Computer Vision on the GPU with OpenCV](http://developer.download.nvidia.com/GTC/PDF/1085_Fung.pdf)  
+[OpenCV on a GPU](https://on-demand.gputechconf.com/gtc/2013/webinar/opencv-gtc-express-shalini-gupta.pdf)  
