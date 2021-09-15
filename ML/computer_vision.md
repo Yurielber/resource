@@ -25,3 +25,5 @@ AR & SLAM & SFM(Structure from Motion)
 
 
 [Bluetooth Low Energy (BLE) Beacon Technology Made Simple: A Complete Guide to Bluetooth Beacons](https://blog.beaconstac.com/2018/08/ble-made-simple-a-complete-guide-to-ble-bluetooth-beacons/)  
+
+[We Built a Face and Mask Detection Web App for Google Chrome](https://hackernoon.com/we-built-a-face-and-mask-detection-web-app-for-google-chrome-836n33aq)  
