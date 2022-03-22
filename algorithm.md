@@ -1,5 +1,7 @@
 [Random Forest Simple Explanation](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d)  
 ![FrontCover.png](https://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)  
-[Jeff Erickson - Algorithms PDF](https://jeffe.cs.illinois.edu/teaching/algorithms/)  
+[Jeff Erickson - Algorithms PDF](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
+[Introduction to the Design and Analysis of Algorithms 3rd.ed By Anany Levitin](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%20%283rd%20ed.%29%20%5BLevitin%202011-10-09%5D.pdf)  
+![Introduction to the Design and Analysis of Algorithms 3rd.ed By Anany Levitin](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/2/0132316811.jpg)
 ![the eight queens puzzle](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eight-queens-animation.gif/300px-Eight-queens-animation.gif)  
 [Eight queens puzzle](https://www.chessprogramming.org/Backtracking)  
