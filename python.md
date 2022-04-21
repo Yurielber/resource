@@ -52,3 +52,7 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
     
     # insert a breakpoint
     breakpoint /usr/local/python3.7/lib/python3.7/site-packages/xxx/zzz.py:150
+    
+# Python Design Patterns  
+[Python Design Patterns](https://python-patterns.guide/)  
+
