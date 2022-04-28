@@ -8,3 +8,4 @@
 
 ## Computer Architect ##  
 (Computer Architecture: A Quantitative Approach Fourth Edition)[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf]  
+(Computer Architecture: A Quantitative Approach Fifth Edition)[http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf]  
