@@ -5,3 +5,6 @@
 
 ## Linux ##  
 (Hands-On System Programming with Linux: Explore Linux system)[https://books.google.com.sg/books?id=aOh1DwAAQBAJ&printsec=frontcover#v=onepage&q&f=false]  
+
+## Computer Architect ##  
+(Computer Architecture: A Quantitative Approach Fourth Edition)[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf]  
