@@ -50,3 +50,7 @@
 [Using GNU's GDB Debugger Memory Layout And The Stack](https://www.comp.nus.edu.sg/~liangzk/cs5231/stacklayout.pdf)  
 [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/index.html)  
 [我们是怎么发现C++异常从堆栈追踪中消失的原因的](https://abcdabcd987.com/libstdc++-bug/)  
+
+* Linux内核完全注释
+[Linux内核0.12完全注释：修正版V5.0](http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf)  
+[Linux内核完全注释：内核版本0.11](http://www.oldlinux.org/download/clk011c-3.0.pdf)  
