@@ -32,7 +32,6 @@ This is project contain all URL collections
 [消息可靠性和顺序(中文)](https://danielw.cn/messaging-reliability-and-order-cn)  
 
 ## Reactive Programming  
-![Reactive example](https://dl.acm.org/cms/attachment/a91279c2-301b-460c-8716-10cbb885a979/medeiros1.png)  
 [Dynamics of Change: Why Reactivity Matters](https://dl.acm.org/doi/fullHtml/10.1145/2956641.2971330?__cf_chl_captcha_tk__=ugMahaU_EWZDEQl64R6bqnt0v8blkk3Qrr6ZbUFVKZA-1638358940-0-gaNycGzNByU)  
 
 ## PostgreSQL
