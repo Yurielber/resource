@@ -31,3 +31,5 @@ This is project contain all URL collections
 [Dynamics of Change: Why Reactivity Matters](https://dl.acm.org/doi/fullHtml/10.1145/2956641.2971330?__cf_chl_captcha_tk__=ugMahaU_EWZDEQl64R6bqnt0v8blkk3Qrr6ZbUFVKZA-1638358940-0-gaNycGzNByU)  
 
 ## PostgreSQL
+[《PostgreSQL技术内幕——原理探索》](http://pg-internal.vonng.com/#/)  
+[The Internals of PostgreSQL --for database administrators and system developers](https://www.interdb.jp/pg/)
