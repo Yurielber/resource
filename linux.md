@@ -54,3 +54,6 @@
 * Linux内核完全注释
 [Linux内核0.12完全注释：修正版V5.0](http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf)  
 [Linux内核完全注释：内核版本0.11](http://www.oldlinux.org/download/clk011c-3.0.pdf)  
+
+## 内核参数(TCP/IP 协议栈)
+[Linux系统的几个重要内核参数](https://www.cnblogs.com/kevingrace/p/6656095.html)
