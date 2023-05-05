@@ -24,6 +24,7 @@ http://qiankunli.github.io/2016/04/22/Java-Netty5.html
 https://github.com/arturmkrtchyan/hello-netty/blob/master/src/main/java/com/arturmkrtchyan/HelloClient.java  
 [Netty Tutorial Part 1.5: On Channel Handlers and Channel Options](http://seeallhearall.blogspot.sg/2012/06/netty-tutorial-part-15-on-channel.html)  
 [Netty Best Practices a.k.a Faster == Better](http://normanmaurer.me/presentations/2014-facebook-eng-netty/slides.html)  
+[我为 Netty 贡献源码 | 且看 Netty 如何应对 TCP 连接的正常关闭，异常关闭，半关闭场景](https://mp.weixin.qq.com/s?__biz=MzkyMTIzMTkzNA==&mid=2247586378&idx=2&sn=4527d43dd448b553dcaf5fc686dcca88&chksm=c185651bf6f2ec0da6cd7fc8d1e86c50d3a1b0ee8951561f392586516f2432ca51fbf849fdcd&scene=126&&sessionid=0)  
 
 #### Head first Netty ####
 https://caorong.github.io/2016/11/24/netty-in-picture/  
