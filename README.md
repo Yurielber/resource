@@ -41,3 +41,8 @@ This is project contain all URL collections
 
 ## SQL  
 [OFFSET doesn’t deliver stable results and makes the query slow. Key-set pagination does neither.](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
+
+## 技术文章摘抄  
+[技术文章摘抄-专栏](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F)  
+* 代码之丑  
+[技术文章摘抄-文章](https://learn.lianglianglee.com/%E6%96%87%E7%AB%A0)
