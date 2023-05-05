@@ -28,6 +28,8 @@ This is project contain all URL collections
 ### the Outbox Pattern  
 [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)  
 [Publishing Events to Kafka using an Outbox Pattern](https://medium.com/contino-engineering/publishing-events-to-kafka-using-a-outbox-pattern-867a48e29d35)  
+在分布式系统中，消息可靠性是数据一致性的基础，通常需要一次或至少一次传递消息。实际上，严格来讲，没有人能够以完全一次(exactly once)的保证来实现消息传递系统，这是不可能实现的。实际上，我们让用户方至少一次处理幂等和排除重复数据，以模拟exactly once语义。实际上，即使是at-least once也不容易实现，我们将在本文中讨论原因。我们还将讨论消息传递一致性问题中最困难的部分: 顺序(ordering)。
+[消息可靠性和顺序(中文)](https://danielw.cn/messaging-reliability-and-order-cn)  
 
 ## Reactive Programming  
 ![Reactive example](https://dl.acm.org/cms/attachment/a91279c2-301b-460c-8716-10cbb885a979/medeiros1.png)  
