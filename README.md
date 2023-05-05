@@ -25,6 +25,9 @@ This is project contain all URL collections
 ## blog  
 [My two favorite math equations](https://www.ricklindquist.com/blog/my-two-favorite-math-equations)  
 [怎样花两年时间去面试一个人](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)  
+### the Outbox Pattern  
+[Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)  
+[Publishing Events to Kafka using an Outbox Pattern](https://medium.com/contino-engineering/publishing-events-to-kafka-using-a-outbox-pattern-867a48e29d35)  
 
 ## Reactive Programming  
 ![Reactive example](https://dl.acm.org/cms/attachment/a91279c2-301b-460c-8716-10cbb885a979/medeiros1.png)  
@@ -32,4 +35,6 @@ This is project contain all URL collections
 
 ## PostgreSQL
 [《PostgreSQL技术内幕——原理探索》](http://pg-internal.vonng.com/#/)  
-[The Internals of PostgreSQL --for database administrators and system developers](https://www.interdb.jp/pg/)
+[The Internals of PostgreSQL --for database administrators and system developers](https://www.interdb.jp/pg/)  
+
+
