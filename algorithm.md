@@ -2,7 +2,9 @@
 * [Hard] [LIS] Russian Doll Envelopes
 ------------------------------------------------------------------------
 ## Grokking the Coding Interview: Patterns for Coding Questions
-### Introduction to Two Pointers Pattern
+
+### [Coding Interview Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions/tree/master)
+### [PDF---Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/lakhbawa/PDF---Grokking-the-Coding-Interview-Patterns-for-Coding-Questions/blob/main/Grokking%20the%20Coding%20Interview%20in%2016%20Patterns.pdf)
 
 ------------------------------------------------------------------------
 [Algorithms 经典数据](https://awesome-programming-books.github.io/)  
