@@ -19,6 +19,9 @@
 ## Hibernate ##
 [Hibernate SQLQuery Manual](https://docs.jboss.org/hibernate/orm/4.1/devguide/en-US/html/ch13.html)  
 
+## Spring ##
+[Tips for debugging Spring's @Transactional annotation](https://tim.mattison.org/java-hacks/tips-for-debugging-springs-transactional-annotation)
+
 ## Netty ##
 http://qiankunli.github.io/2016/04/22/Java-Netty5.html  
 https://github.com/arturmkrtchyan/hello-netty/blob/master/src/main/java/com/arturmkrtchyan/HelloClient.java  
