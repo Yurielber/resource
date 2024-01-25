@@ -39,6 +39,7 @@ This is project contain all URL collections
 [The Internals of PostgreSQL --for database administrators and system developers](https://www.interdb.jp/pg/)  
 [How does MVCC (Multi-Version Concurrency Control) work](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)  
 [Postgres unique constraint](https://www.dbi-services.com/blog/postgres-unique-constraint/)
+[Database Concurrency in PostgreSQL](https://www.red-gate.com/simple-talk/databases/postgresql/database-concurrency-in-postgresql/#:~:text=MVCC%20works%20very%20well%20within,prevent%20conflict%20between%20concurrent%20transactions.)
 
 ## SQL  
 [OFFSET doesn’t deliver stable results and makes the query slow. Key-set pagination does neither.](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
