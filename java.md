@@ -21,6 +21,7 @@
 
 ## Spring ##
 [Tips for debugging Spring's @Transactional annotation](https://tim.mattison.org/java-hacks/tips-for-debugging-springs-transactional-annotation)
+[Spring Transaction Propagation in a Nutshell](https://dzone.com/articles/spring-transaction-propagation)
 
 ## Netty ##
 http://qiankunli.github.io/2016/04/22/Java-Netty5.html  
