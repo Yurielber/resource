@@ -40,6 +40,7 @@ This is project contain all URL collections
 [How does MVCC (Multi-Version Concurrency Control) work](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)  
 [Postgres unique constraint](https://www.dbi-services.com/blog/postgres-unique-constraint/)
 [Database Concurrency in PostgreSQL](https://www.red-gate.com/simple-talk/databases/postgresql/database-concurrency-in-postgresql/#:~:text=MVCC%20works%20very%20well%20within,prevent%20conflict%20between%20concurrent%20transactions.)
+[How to run short ALTER TABLE without long locking concurrent queries](https://www.depesz.com/2019/09/26/how-to-run-short-alter-table-without-long-locking-concurrent-queries/)
 
 ## SQL  
 [OFFSET doesn’t deliver stable results and makes the query slow. Key-set pagination does neither.](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
