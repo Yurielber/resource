@@ -43,6 +43,7 @@ This is project contain all URL collections
 [How to run short ALTER TABLE without long locking concurrent queries](https://www.depesz.com/2019/09/26/how-to-run-short-alter-table-without-long-locking-concurrent-queries/)  
 [How we fix database “Frozen” while alter tables in production](https://ngoyal16.medium.com/how-we-fix-database-frozen-while-alter-a-table-in-production-54e4b9c7f3d)  
 [PostgreSQL VACUUM taking an access exclusive lock](https://blog.summercat.com/postgres-vacuum-taking-an-access-exclusive-lock.html)  
+[Locks in PostgreSQL: 2. Row-level locks](https://postgrespro.com/blog/pgsql/5968005)  
 
 ## SQL  
 [OFFSET doesn’t deliver stable results and makes the query slow. Key-set pagination does neither.](https://use-the-index-luke.com/sql/partial-results/fetch-next-page)
