@@ -114,3 +114,7 @@ This can increase fragmentation because the free trees are separate.
 ## Testing  
 [BDD Testing, Cucumber 10 Minute Tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/)  
 
+## JDK bug
+[JVM AArch64 SIGSEGV coredump](https://heapdump.cn/article/2589275)  
+
+
