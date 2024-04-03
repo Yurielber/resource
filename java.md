@@ -62,7 +62,7 @@ This article explains the internal architecture of the Java Virtual Machine (JVM
 [Tracking Memory Consumption Using Pmap](https://milianw.de/code-snippets/tracking-memory-consumption-using-pmap.html)  
 [pmap(1) - Linux man page](https://linux.die.net/man/1/pmap)  
 [Java Memory Leaks: Tools, Fixes, and More](https://dzone.com/articles/what-to-do-about-java-memory-leaks-tools-fixes-and)  
-
+[一次由于网络套接字文件描述符泄露导致线上服务事故原因的排查经历](https://www.wangbo.im/posts/a-production-bug-leaking-sockets-fd-reproducing-practice/)  
 
 ## JAVA native Memory Leak ? ##  
 [Dawn of the Dead Ends: Fixing a Memory Leak in Apache Kafka](https://blog.heroku.com/fixing-kafka-memory-leak)  
