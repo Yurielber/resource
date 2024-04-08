@@ -100,6 +100,7 @@ This can increase fragmentation because the free trees are separate.
 [Java Compare and Swap Example – CAS Algorithm](https://howtodoinjava.com/java/multi-threading/compare-and-swap-cas-algorithm/)  
 [SIGSEGV as control flow - How the JVM optimizes your null checks](https://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)  
 [Effective Null Pointer Check Elimination Utilizing Hardware Trap](https://prolangs.cs.vt.edu/refs/docs/kawahito-asplos00.pdf)  
+[攻击Java Web应用-Java Web安全](https://javasec.org/)  
 
 ## Debug toolkit  
 * [jmap Utility -- The jmap command-line utility prints memory-related statistics for a running VM or core file](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr014.html)  
