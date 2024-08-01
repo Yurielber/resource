@@ -12,6 +12,7 @@ SlideShare.net [Mocking in Python-pytest](https://www.slideshare.net/excellaco/m
 
 ## blog ##  
 *GIL* [Concurrent Programming in Python is not what you think it is](https://melvinkoh.me/concurrent-programming-in-python-is-not-what-you-think-it-is-cjn39wijd009e25s19bb6pb17?ref=hackernoon.com)  
+*python -m json.tool* [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
 ## Book ##
 
