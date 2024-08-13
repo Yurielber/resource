@@ -16,3 +16,7 @@
 [The ultimate strace cheat sheet](https://linux-audit.com/the-ultimate-strace-cheat-sheet/)  
 [Poor man’s memory leak detection with strace](https://deathandthepenguinblog.wordpress.com/2015/08/15/poor-mans-memory-leak-detection-with-strace/)  
 [Sysdig – Exploration and troubleshooting tool for Linux systems](https://www.2daygeek.com/sysdig-linux-system-diagnostic-monitor-troubleshoot-tool/)  
+
+
+## Understanding reservations, concurrency, and locking in Nova ##
+[Understanding reservations, concurrency, and locking in Nova](https://web.archive.org/web/20150115224800/http://www.joinfu.com/2015/01/understanding-reservations-concurrency-locking-in-nova/)
