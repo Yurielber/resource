@@ -19,5 +19,5 @@
 
 
 ## OpenStack design common problem ##
-[Understanding reservations, concurrency, and locking in Nova](https://web.archive.org/web/20150115224800/http://www.joinfu.com/2015/01/understanding-reservations-concurrency-locking-in-nova/)
+[Understanding reservations, concurrency, and locking in Nova](https://web.archive.org/web/20150115224800/http://www.joinfu.com/2015/01/understanding-reservations-concurrency-locking-in-nova/)    
 [A lock-free quota implementation](https://specs.openstack.org/openstack/nova-specs/specs/kilo/approved/lock-free-quota-management.html)  
