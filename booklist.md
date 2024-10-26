@@ -5,6 +5,7 @@
 
 ## Linux ##  
 (Hands-On System Programming with Linux: Explore Linux system)[https://books.google.com.sg/books?id=aOh1DwAAQBAJ&printsec=frontcover#v=onepage&q&f=false]  
+[Andrew S. Tanenbaum - Operating Systems. Design and Implementation 3rd.edition](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf)  
 
 ## Computer Architect ##  
 (Computer Architecture: A Quantitative Approach Fourth Edition)[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf]  
