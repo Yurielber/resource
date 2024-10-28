@@ -5,3 +5,6 @@
 ### <Distributed Algorithms> by Nancy Lynch
 [Blog: How I came to read the first half of Distributed Algorithms by Nancy Lynch](https://aaronlelevier.github.io/How-I-came-to-read-the-first-half-of-Distributed-Algorithms-by-Nancy-Lynch/)  
 [materials prepared for comp90020](https://github.com/kvoli/dalgo)  
+
+### Distributed systems --for fun and profit  
+[Distributed systems --for fun and profit](https://book.mixu.net/distsys/single-page.html)  
